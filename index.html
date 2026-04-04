@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Joiaflix — Filmes e Documentários sobre Joalheria, Ouro, Prata e Diamantes</title>
+  <meta name="description" content="Plataforma gratuita de filmes e documentários sobre o setor joalheiro mundial: ouro, prata, diamantes, gemologia, mineração e mercado.">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>💎</text></svg>">
+</head>
+<body>
+
+  <!-- ═══ NAVBAR ═══ -->
+  <nav class="navbar">
+    <div class="navbar-logo" onclick="location.reload()">JOIA<span>FLIX</span></div>
+    <ul class="navbar-nav">
+      <li><a href="#" class="active" onclick="resetToHome(event)">Início</a></li>
+      <li><a href="#home-view">Catálogo</a></li>
+      <li><a href="#stats">Acervo</a></li>
+    </ul>
+    <div class="navbar-actions">
+      <div class="search-box">
+        <input type="text" placeholder="Buscar filmes, documentários...">
+        <button title="Buscar">🔍</button>
+      </div>
+    </div>
+  </nav>
+
+  <!-- ═══ HERO ═══ -->
+  <section class="hero">
+    <div class="hero-bg"></div>
+    <div class="hero-particles"></div>
+    <div class="hero-content">
+      <div class="hero-badge">✦ Em Destaque</div>
+      <h1 class="hero-title">
+        <span class="main">Carregando...</span>
+      </h1>
+      <p class="hero-description">Carregando...</p>
+      <div class="hero-meta">
+        <span class="rating"></span>
+        <span class="dot" style="width:3px;height:3px;background:#777;border-radius:50%;display:inline-block"></span>
+        <span class="year"></span>
+        <span class="dot" style="width:3px;height:3px;background:#777;border-radius:50%;display:inline-block"></span>
+        <span class="duration"></span>
+        <span class="dot" style="width:3px;height:3px;background:#777;border-radius:50%;display:inline-block"></span>
+        <span class="tag source"></span>
+      </div>
+      <div class="hero-actions">
+        <button class="btn btn-primary">
+          <span class="btn-icon">▶</span> Assistir Agora
+        </button>
+        <button class="btn btn-secondary">
+          <span class="btn-icon">ℹ</span> Mais Informações
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══ CATEGORY TABS ═══ -->
+  <div class="category-tabs"></div>
+
+  <!-- ═══ STATS ═══ -->
+  <div class="stats-bar" id="stats">
+    <div class="stat">
+      <div class="stat-number" id="stat-total">0</div>
+      <div class="stat-label">Total no Acervo</div>
+    </div>
+    <div class="stat">
+      <div class="stat-number" id="stat-docs">0</div>
+      <div class="stat-label">Documentários</div>
+    </div>
+    <div class="stat">
+      <div class="stat-number" id="stat-movies">0</div>
+      <div class="stat-label">Filmes</div>
+    </div>
+    <div class="stat">
+      <div class="stat-number" id="stat-sources">0</div>
+      <div class="stat-label">Fontes / Estúdios</div>
+    </div>
+  </div>
+
+  <!-- ═══ BANNER ORION GOLD ═══ -->
+  <a href="https://www.oriongold.com.br" target="_blank" rel="noopener" class="ad-banner" id="ad-banner-top">
+    <div class="ad-banner-inner">
+      <div class="ad-banner-logo">
+        <span class="ad-brand">ORION</span><span class="ad-brand-gold">GOLD</span>
+      </div>
+      <div class="ad-banner-text">
+        <span class="ad-headline">Joias em Ouro, Prata 925 e Metais Preciosos</span>
+        <span class="ad-sub">Serra/ES — Compra e venda de ouro com procedência</span>
+      </div>
+      <div class="ad-banner-cta">
+        <span class="ad-btn">Visite o Site</span>
+        <a href="https://www.instagram.com/oriongold_co" target="_blank" rel="noopener" class="ad-instagram" onclick="event.stopPropagation()">
+          <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zM12 0C8.741 0 8.333.014 7.053.072 2.695.272.273 2.69.073 7.052.014 8.333 0 8.741 0 12c0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98C8.333 23.986 8.741 24 12 24c3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98C15.668.014 15.259 0 12 0zm0 5.838a6.162 6.162 0 100 12.324 6.162 6.162 0 000-12.324zM12 16a4 4 0 110-8 4 4 0 010 8zm6.406-11.845a1.44 1.44 0 100 2.881 1.44 1.44 0 000-2.881z"/></svg>
+          @oriongold_co
+        </a>
+      </div>
+    </div>
+  </a>
+
+  <!-- ═══ HOME VIEW (category rows) ═══ -->
+  <div id="home-view"></div>
+
+  <!-- ═══ GRID VIEW (filtered) ═══ -->
+  <div class="grid-section" id="grid-view">
+    <div class="video-grid"></div>
+  </div>
+
+  <!-- ═══ MODAL PLAYER ═══ -->
+  <div class="modal-overlay">
+    <div class="modal">
+      <div class="modal-player">
+        <button class="modal-close">✕</button>
+        <iframe
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen>
+        </iframe>
+      </div>
+      <div class="modal-info">
+        <div class="modal-source"></div>
+        <h2 class="modal-title"></h2>
+        <div class="modal-meta">
+          <span class="rating"></span>
+          <span class="tag year"></span>
+          <span class="tag duration"></span>
+          <span class="tag language"></span>
+          <span class="tag subtitles"></span>
+        </div>
+        <p class="modal-description"></p>
+
+        <div class="modal-actions">
+          <a class="btn btn-primary modal-yt-link" href="#" target="_blank" rel="noopener">
+            <span class="btn-icon">▶</span> Abrir no YouTube
+          </a>
+        </div>
+
+        <div class="modal-subtitle-tip">
+          <span class="tip-icon">💡</span>
+          <span>
+            <strong>Legendas em Português:</strong> Este vídeo está em outro idioma.
+            As legendas em PT-BR são carregadas automaticamente. Se não aparecerem,
+            clique em <strong>CC</strong> no player → <strong>Configurações</strong> (⚙) →
+            <strong>Legendas</strong> → <strong>Traduzir automaticamente</strong> → <strong>Português</strong>.
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ═══ BANNER ORION GOLD (FOOTER) ═══ -->
+  <a href="https://www.oriongold.com.br" target="_blank" rel="noopener" class="ad-banner ad-banner-footer">
+    <div class="ad-banner-inner">
+      <div class="ad-banner-logo">
+        <span class="ad-brand">ORION</span><span class="ad-brand-gold">GOLD</span>
+        <span class="ad-badge">PATROCINADOR</span>
+      </div>
+      <div class="ad-banner-text">
+        <span class="ad-headline">Ouro, Prata 925, Joias e Metais Preciosos com Procedência</span>
+        <span class="ad-sub">www.oriongold.com.br — Serra/ES</span>
+      </div>
+      <div class="ad-banner-cta">
+        <span class="ad-btn">Acesse a Loja</span>
+        <a href="https://www.instagram.com/oriongold_co" target="_blank" rel="noopener" class="ad-instagram" onclick="event.stopPropagation()">
+          <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zM12 0C8.741 0 8.333.014 7.053.072 2.695.272.273 2.69.073 7.052.014 8.333 0 8.741 0 12c0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98C8.333 23.986 8.741 24 12 24c3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98C15.668.014 15.259 0 12 0zm0 5.838a6.162 6.162 0 100 12.324 6.162 6.162 0 000-12.324zM12 16a4 4 0 110-8 4 4 0 010 8zm6.406-11.845a1.44 1.44 0 100 2.881 1.44 1.44 0 000-2.881z"/></svg>
+          @oriongold_co
+        </a>
+      </div>
+    </div>
+  </a>
+
+  <!-- ═══ FOOTER ═══ -->
+  <footer class="footer">
+    <div class="footer-logo">JOIAFLIX</div>
+    <p>Filmes e documentários gratuitos sobre o setor joalheiro mundial.<br>
+    Ouro, Prata, Diamantes, Gemologia, Mineração e Mercado.</p>
+    <p class="note">
+      Todos os vídeos são públicos e hospedados no YouTube. O Joiaflix é um curador de conteúdo educacional gratuito.<br>
+      Vídeos em outros idiomas possuem legendas automáticas em Português (BR) via YouTube.
+    </p>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+  <script>
+    function resetToHome(e) {
+      e.preventDefault();
+      document.getElementById('home-view').style.display = 'block';
+      document.getElementById('grid-view').classList.remove('active');
+      document.querySelectorAll('.category-tab').forEach(t => t.classList.remove('active'));
+      document.querySelector('.category-tab[data-category="all"]').classList.add('active');
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+  </script>
+
+</body>
+</html>
