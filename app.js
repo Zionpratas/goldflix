@@ -124,7 +124,7 @@ function renderSections() {
       adInline.innerHTML = `
         <div class="ad-banner-inner">
           <div class="ad-banner-logo">
-            <span class="ad-brand">ORION</span><span class="ad-brand-gold">GOLD</span>
+            <img src="logo-orion.jpg" alt="Orion Gold" class="ad-logo-img">
           </div>
           <div class="ad-banner-text">
             <span class="ad-headline">Compra e venda de ouro com procedência — Joias, Prata 925 e Metais Preciosos</span>
