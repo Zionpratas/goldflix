@@ -128,7 +128,7 @@ function renderSections() {
           </div>
           <div class="ad-banner-text">
             <span class="ad-headline">Compra e venda de ouro com procedência — Joias, Prata 925 e Metais Preciosos</span>
-            <span class="ad-sub">www.oriongold.com.br — Serra/ES</span>
+            <span class="ad-sub">www.oriongold.com.br</span>
           </div>
           <div class="ad-banner-cta">
             <span class="ad-btn">Conheça</span>
