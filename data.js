@@ -26486,6 +26486,20 @@ const VIDEOS = [
     source: 'Ponto Cult',
   },
 
+  {
+    id: 'v2661',
+    title: 'Anunnaki The Search For Gold - Full movie,  Our True History, Aliens, film,  oth8, oth8.com',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'H0PwU1DC2-M',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro', 'historia'],
+    rating: 4.5,
+    source: 'Our True History',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
