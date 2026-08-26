@@ -26500,6 +26500,34 @@ const VIDEOS = [
     source: 'Our True History',
   },
 
+  {
+    id: 'v2662',
+    title: 'Albert Einstein DUBLADO  DOCUMENTÁRIO COMPLETO S/ CORTES',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'UnSA27a00To',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Cezar de melo',
+  },
+
+  {
+    id: 'v2663',
+    title: 'Cacada a Pablo Escobar Documentario Completo NatGeo HD 720p',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '2nlq_NsKUF0',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'SoTrue',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
