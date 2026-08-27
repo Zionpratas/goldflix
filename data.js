@@ -26542,6 +26542,20 @@ const VIDEOS = [
     source: 'Behind the Machines',
   },
 
+  {
+    id: 'v2665',
+    title: 'Yukon Gold- Two Sluice Plants, Double Disaster! | FULL EPISODE | Sn 4 | Ep 8 | Lionsgate TV',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'nh3hyYNoSig',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'LionsgateTV',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
