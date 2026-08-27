@@ -26584,6 +26584,20 @@ const VIDEOS = [
     source: 'DocuRoyal',
   },
 
+  {
+    id: 'v2668',
+    title: 'The FRENCH CROWN JEWELS',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'twg-ciUNf58',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['joalheria', 'luxo', 'historia'],
+    rating: 4.5,
+    source: 'Allan Barton - The Antiquary',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
