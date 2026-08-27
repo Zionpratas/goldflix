@@ -26570,6 +26570,20 @@ const VIDEOS = [
     source: 'Wealth Logic ',
   },
 
+  {
+    id: 'v2667',
+    title: 'Prince William: Revolution in Waiting | Full Film',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'jHZQVXrXLPk',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'DocuRoyal',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
