@@ -26556,6 +26556,20 @@ const VIDEOS = [
     source: 'LionsgateTV',
   },
 
+  {
+    id: 'v2666',
+    title: 'If You Don\'t Understand Gold, You Don\'t Understand Money!',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'S14hhWEZc8Y',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Wealth Logic ',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
