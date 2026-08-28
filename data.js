@@ -26598,6 +26598,20 @@ const VIDEOS = [
     source: 'Allan Barton - The Antiquary',
   },
 
+  {
+    id: 'v2669',
+    title: 'Saxon Death, Saxon Gold (Full Episode) | S18 EP2 | Time Team (West Langton, Leicestershire)',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'Olmq4KOXaMA',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Time Team Classics',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
