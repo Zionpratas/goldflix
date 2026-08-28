@@ -26640,6 +26640,20 @@ const VIDEOS = [
     source: 'GoldSwitzerland by VON GREYERZ',
   },
 
+  {
+    id: 'v2672',
+    title: 'Inside the Factory Turning Millions of Oysters into Pearls (Full Process)',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'vZpfUJN9rwc',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['gemologia'],
+    rating: 4.5,
+    source: 'Factory Frame .117k Views•…',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
