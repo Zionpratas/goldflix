@@ -26612,6 +26612,20 @@ const VIDEOS = [
     source: 'Time Team Classics',
   },
 
+  {
+    id: 'v2670',
+    title: 'A celebration of color | Bvlgari High Jewelry',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'FcBhpB-B45s',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['joalheria'],
+    rating: 4.5,
+    source: 'Bvlgari',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
