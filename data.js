@@ -26654,6 +26654,20 @@ const VIDEOS = [
     source: 'Factory Frame .117k Views•…',
   },
 
+  {
+    id: 'v2673',
+    title: 'The Lost Technology of Ancient Egypt',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '2AvSeitJisQ',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['historia'],
+    rating: 4.5,
+    source: 'Astraway',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
