@@ -26626,6 +26626,20 @@ const VIDEOS = [
     source: 'Bvlgari',
   },
 
+  {
+    id: 'v2671',
+    title: 'Don\'t Buy Gold',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'ucezLbKHICg',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'GoldSwitzerland by VON GREYERZ',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
