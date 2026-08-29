@@ -26766,6 +26766,20 @@ const VIDEOS = [
     source: 'Ancient City Reconstruction',
   },
 
+  {
+    id: 'v2681',
+    title: 'The Diamonds That Could Destroy an Empire | ROUGH CUT | Full Crime Thriller Movie',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'vWxPfUoeV2I',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['diamantes'],
+    rating: 4.5,
+    source: 'Cinema Epoch',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
