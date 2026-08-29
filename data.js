@@ -26738,6 +26738,20 @@ const VIDEOS = [
     source: 'Hamon Beat',
   },
 
+  {
+    id: 'v2679',
+    title: 'Rock Brasília - Era de Ouro do Rock Brasil (Documentário Completo)',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'i-rgU7aHufQ',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Canal CMB - Central da Música Brasileira',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
