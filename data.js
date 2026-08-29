@@ -26682,6 +26682,20 @@ const VIDEOS = [
     source: 'WatchMojo.com',
   },
 
+  {
+    id: 'v2675',
+    title: 'Câmera Record encontra filho do descobridor de Serra Pelada',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'rKo2uSNC9jM',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Câmera Record',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
