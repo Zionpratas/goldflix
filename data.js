@@ -26724,6 +26724,20 @@ const VIDEOS = [
     source: 'HOW IT\'S MADE',
   },
 
+  {
+    id: 'v2678',
+    title: 'JoJo Movie & Manga Differences - Diamond Is Unbreakable: Chapter 1 (2017)',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '8ZBMJGOGe7Y',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['diamantes'],
+    rating: 4.5,
+    source: 'Hamon Beat',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
