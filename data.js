@@ -26696,6 +26696,20 @@ const VIDEOS = [
     source: 'Câmera Record',
   },
 
+  {
+    id: 'v2676',
+    title: 'She Refused to Hand Over the Crown Jewels: The 30-Year War Between Queen Alexandra and Queen Mary',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'xBZgQ3J5n-Y',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['joalheria', 'luxo', 'historia'],
+    rating: 4.5,
+    source: 'Untold Royal Ladies',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
