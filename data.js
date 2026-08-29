@@ -26668,6 +26668,20 @@ const VIDEOS = [
     source: 'Astraway',
   },
 
+  {
+    id: 'v2674',
+    title: 'Top 20 Greatest Archeological Discoveries Ever',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'hMdHpZ8vY2M',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'WatchMojo.com',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
