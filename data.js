@@ -26752,6 +26752,20 @@ const VIDEOS = [
     source: 'Canal CMB - Central da Música Brasileira',
   },
 
+  {
+    id: 'v2680',
+    title: 'What Scientists Found In The 3 Richest Han Royal Tombs Ever Excavated Changed History',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '8oXwyC6unhk',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['historia'],
+    rating: 4.5,
+    source: 'Ancient City Reconstruction',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
