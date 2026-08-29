@@ -26710,6 +26710,20 @@ const VIDEOS = [
     source: 'Untold Royal Ladies',
   },
 
+  {
+    id: 'v2677',
+    title: 'Greece\'s most treasured artifacts Documentary 2017',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'TcrVWyEeiSo',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'HOW IT\'S MADE',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
