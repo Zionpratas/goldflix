@@ -26794,6 +26794,20 @@ const VIDEOS = [
     source: 'National Geographic',
   },
 
+  {
+    id: 'v2683',
+    title: 'NKWE Platinum',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'i8kB5cP8N08',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['prata'],
+    rating: 4.5,
+    source: 'andrewhuang78',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
