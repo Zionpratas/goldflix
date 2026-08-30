@@ -26780,6 +26780,20 @@ const VIDEOS = [
     source: 'Cinema Epoch',
   },
 
+  {
+    id: 'v2682',
+    title: 'Ancient Egypt\'s Royal Secrets Revealed | Lost Treasures of Egypt | MEGA EPISODE | Nat Geo',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'WaekdiqeX80',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['historia'],
+    rating: 4.5,
+    source: 'National Geographic',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
