@@ -26822,6 +26822,20 @@ const VIDEOS = [
     source: 'HARREL TREASURE',
   },
 
+  {
+    id: 'v2685',
+    title: 'Inside the Gold Bar Refinery (Full Process) How Bullion Is Made',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'wFJXeu2GR_c',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Factory process',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
