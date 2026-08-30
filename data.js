@@ -26808,6 +26808,20 @@ const VIDEOS = [
     source: 'andrewhuang78',
   },
 
+  {
+    id: 'v2684',
+    title: 'BUKIDNON YAMASHITA TREASURE FOUND',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '2R5HBNj2vek',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'HARREL TREASURE',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
