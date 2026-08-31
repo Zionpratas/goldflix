@@ -26836,6 +26836,20 @@ const VIDEOS = [
     source: 'Factory process',
   },
 
+  {
+    id: 'v2686',
+    title: 'Full💞They Forced Him to Marry a Sick Ranch Girl—She Was Secretly Worth $3 Trillion',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'lNoNVRnKVe0',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'SellayaDrama',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
