@@ -26878,6 +26878,20 @@ const VIDEOS = [
     source: 'Grace Oliveira - Artes e Acessórios',
   },
 
+  {
+    id: 'v2689',
+    title: 'Hieroglíficos confirmam a passagem de visitantes? | STRANGEST THINGS | EP #5 COMPLETO',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'iiazB-t7064',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['historia', 'gemologia'],
+    rating: 4.5,
+    source: 'Canal History Brasil',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
