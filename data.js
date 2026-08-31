@@ -26850,6 +26850,34 @@ const VIDEOS = [
     source: 'SellayaDrama',
   },
 
+  {
+    id: 'v2687',
+    title: 'Anel de Prata com Topázio Imperial e Zircônias 💍 JOALHERIA ARTESANAL',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '_P_A4UKnhag',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['prata', 'gemologia'],
+    rating: 4.5,
+    source: 'Gemologia',
+  },
+
+  {
+    id: 'v2688',
+    title: 'Diy🇧🇷Colar do Brasil na Copa América 💚💛 Tutorial Como fazer',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '19B1WrOFhoM',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Grace Oliveira - Artes e Acessórios',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
