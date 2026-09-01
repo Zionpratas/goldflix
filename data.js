@@ -26892,6 +26892,20 @@ const VIDEOS = [
     source: 'Canal History Brasil',
   },
 
+  {
+    id: 'v2690',
+    title: 'Diamond DA20 KATANA Product Film 2026',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'rZmisGgXIm8',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['diamantes'],
+    rating: 4.5,
+    source: 'DiamondAircraftInd',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
