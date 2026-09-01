@@ -26906,6 +26906,20 @@ const VIDEOS = [
     source: 'DiamondAircraftInd',
   },
 
+  {
+    id: 'v2691',
+    title: 'Inside a Modern Platinum Refinery: From Raw Ore to the World\'s Most Precious Metal (Full Process)',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '0r3cI-qPbpc',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['prata', 'gemologia'],
+    rating: 4.5,
+    source: 'LuxeGem Factory',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
