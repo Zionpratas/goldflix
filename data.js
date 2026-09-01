@@ -26948,6 +26948,20 @@ const VIDEOS = [
     source: 'in see too gemstones',
   },
 
+  {
+    id: 'v2694',
+    title: 'DIAMOND DOG CAPER - FULL MOVIE | Family Adventure Dog Movie',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'S5QOnqgsvxc',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['diamantes'],
+    rating: 4.5,
+    source: 'Ms. Movies by FilmIsNow ',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
