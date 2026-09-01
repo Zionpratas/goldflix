@@ -26920,6 +26920,34 @@ const VIDEOS = [
     source: 'LuxeGem Factory',
   },
 
+  {
+    id: 'v2692',
+    title: 'Inside the $10 Million Emerald Mine: Digging for Giant Emerald (Full Process)',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'MHSf6lQBYIw',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['mineracao', 'gemologia'],
+    rating: 4.5,
+    source: 'Hominid Dawn',
+  },
+
+  {
+    id: 'v2693',
+    title: 'Jasper Stone Secrets: How Jasper Forms, Is Cut & Made into Jewelry',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'OyvA-nzroMo',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['joalheria', 'gemologia'],
+    rating: 4.5,
+    source: 'in see too gemstones',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
