@@ -26962,6 +26962,34 @@ const VIDEOS = [
     source: 'Ms. Movies by FilmIsNow ',
   },
 
+  {
+    id: 'v2695',
+    title: 'Mysterious Discoveries That Change Everything We Know!',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'F0Dm-d7dqHI',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Origins Explained',
+  },
+
+  {
+    id: 'v2696',
+    title: 'All About GOLD: Mining, History and Science',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'dhZ1yF6Kjrk',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro', 'historia', 'mineracao'],
+    rating: 4.5,
+    source: 'Commodity Culture',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
