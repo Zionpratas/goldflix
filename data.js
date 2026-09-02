@@ -27004,6 +27004,20 @@ const VIDEOS = [
     source: 'Paul McAllister',
   },
 
+  {
+    id: 'v2698',
+    title: 'പൊട്ടിക്കുന്ന സ്വര്‍ണം മൂന്നായി വീതം വയ്ക്കും; ഒരു ഭാഗം പാര്‍ട്ടിക്ക്; ശബ്ദരേഖ  | Gold Smuggling cas',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'eonExNs00l4',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Manorama News',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
