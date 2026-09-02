@@ -26990,6 +26990,20 @@ const VIDEOS = [
     source: 'Commodity Culture',
   },
 
+  {
+    id: 'v2697',
+    title: 'The Most Impossible Rise of a Gold Rush Ever: The Klondike',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'Nmvt1V5t_Ss',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Paul McAllister',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
