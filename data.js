@@ -27046,6 +27046,20 @@ const VIDEOS = [
     source: 'AF WORLD by AFLU',
   },
 
+  {
+    id: 'v2701',
+    title: 'Ancient Artifacts and Coins That Stunned the Experts | Compilation | Pawn Stars',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '6o4xW0OYgf0',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['historia'],
+    rating: 4.5,
+    source: 'Pawn Stars',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
