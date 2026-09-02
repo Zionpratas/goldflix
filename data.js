@@ -27018,6 +27018,20 @@ const VIDEOS = [
     source: 'Manorama News',
   },
 
+  {
+    id: 'v2699',
+    title: 'Africa\'s looted art | DW Documentary',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '3RXlVr_15JY',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'DW Documentary',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
