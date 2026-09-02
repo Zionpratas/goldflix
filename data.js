@@ -27032,6 +27032,20 @@ const VIDEOS = [
     source: 'DW Documentary',
   },
 
+  {
+    id: 'v2700',
+    title: 'അധോലോകത്തെ വിറപ്പിച്ച യഥാത്ഥ ഖലീഫ 😱 KHALIFA HAJI MASTAN EXPLAINED | MALAYALAM | By AFLU',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'CuXAzkI_R3Q',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'AF WORLD by AFLU',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
