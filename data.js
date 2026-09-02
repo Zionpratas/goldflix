@@ -27088,6 +27088,20 @@ const VIDEOS = [
     source: 'WORLD DOCUMENTARY TV',
   },
 
+  {
+    id: 'v2704',
+    title: 'Serra Pelada: o que aconteceu com os homens que acharam o ouro?',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'oa9ZXlPoIr0',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Ivan Lima e você',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
