@@ -27060,6 +27060,20 @@ const VIDEOS = [
     source: 'Pawn Stars',
   },
 
+  {
+    id: 'v2702',
+    title: 'The Story of the Hope Diamond Which Ruined Its Owners\' Lives',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'uo4RzWdBerY',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['diamantes'],
+    rating: 4.5,
+    source: 'BRIGHT SIDE',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
