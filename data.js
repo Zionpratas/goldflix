@@ -27074,6 +27074,20 @@ const VIDEOS = [
     source: 'BRIGHT SIDE',
   },
 
+  {
+    id: 'v2703',
+    title: 'Diamond Cartel: The Marketing Myth of Eternal Value (Documentary) |',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'ICFAAoZrwp4',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['mercado', 'diamantes'],
+    rating: 4.5,
+    source: 'WORLD DOCUMENTARY TV',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
