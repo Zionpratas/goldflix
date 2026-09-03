@@ -27116,6 +27116,20 @@ const VIDEOS = [
     source: 'Taylor\'s Rocksmithery',
   },
 
+  {
+    id: 'v2706',
+    title: 'How a Single Gold Bar Worth $1,400,000 is Made From Raw Earth — Full US Factory Process',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '7mktndBkR40',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'The Gold Architect',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
