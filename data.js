@@ -27102,6 +27102,20 @@ const VIDEOS = [
     source: 'Ivan Lima e você',
   },
 
+  {
+    id: 'v2705',
+    title: 'Shocking BEAUTY Just Beneath the Surface | The Art of Lapidary',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '5HFxmEmlxlI',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['gemologia'],
+    rating: 4.5,
+    source: 'Taylor\'s Rocksmithery',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
