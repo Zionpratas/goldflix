@@ -27144,6 +27144,20 @@ const VIDEOS = [
     source: 'Novatek Factory ',
   },
 
+  {
+    id: 'v2708',
+    title: 'Bilhões Em Ouro Estão Escondidos Nessa Montanha?| O OURO PERDIDO DA SEGUNDA GUERRA MUNDIAL | HISTORY',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'f4oHr-m-Iyk',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['ouro', 'historia'],
+    rating: 4.5,
+    source: 'Canal History Brasil',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
