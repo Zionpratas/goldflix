@@ -27130,6 +27130,20 @@ const VIDEOS = [
     source: 'The Gold Architect',
   },
 
+  {
+    id: 'v2707',
+    title: 'How Blue Sapphires Become Royal Jewelry',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'Pwh5XatAPf0',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['joalheria', 'gemologia'],
+    rating: 4.5,
+    source: 'Novatek Factory ',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
