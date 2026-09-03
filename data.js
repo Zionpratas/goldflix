@@ -27158,6 +27158,20 @@ const VIDEOS = [
     source: 'Canal History Brasil',
   },
 
+  {
+    id: 'v2709',
+    title: 'Exploiting Africa - How China and Europe hunt for the raw materials of the future | DW Documentary',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '3kxQJEbfipI',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'DW Documentary',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
