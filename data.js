@@ -27242,6 +27242,34 @@ const VIDEOS = [
     source: 'Get.factual',
   },
 
+  {
+    id: 'v2715',
+    title: 'The Art of Bulgari: La Dolce Vita & Beyond | Special lecture presented by Amanda Triossi',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'd_Fjjjsl-oo',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['luxo'],
+    rating: 4.5,
+    source: 'Fine Arts Museums of San Francisco',
+  },
+
+  {
+    id: 'v2716',
+    title: 'BVLGARI & Watches. It all started in 1919! The breathtaking story told by CEO Jean-Christophe Babin.',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'BBZ5TVPLX8Q',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'WatchAdvisor',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
