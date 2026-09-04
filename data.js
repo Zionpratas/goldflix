@@ -27270,6 +27270,20 @@ const VIDEOS = [
     source: 'WatchAdvisor',
   },
 
+  {
+    id: 'v2717',
+    title: 'The History of Platinum — The Metal Spain Threw Away',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'FDXac0VNF60',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['prata', 'historia'],
+    rating: 4.5,
+    source: 'Relics & Realms',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
