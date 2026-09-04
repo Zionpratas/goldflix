@@ -27382,6 +27382,20 @@ const VIDEOS = [
     source: 'Money Behind 6',
   },
 
+  {
+    id: 'v2725',
+    title: 'How British Jewellery Shops Were Used to Launder £266M Cash into Gold for DUBAI',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'pw3ij6WH9uM',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro', 'joalheria'],
+    rating: 4.5,
+    source: 'Crime Pulse',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
