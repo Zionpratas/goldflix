@@ -27284,6 +27284,76 @@ const VIDEOS = [
     source: 'Relics & Realms',
   },
 
+  {
+    id: 'v2718',
+    title: 'Revealing Ancient Secrets: The Discovery of Six Feather Gold and Strange Tombs of the Parthian Era',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'kf826WkdGlM',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro', 'historia'],
+    rating: 4.5,
+    source: 'Majid Documentary',
+  },
+
+  {
+    id: 'v2719',
+    title: 'Who Left This Here? Uncovering $50,000,000 in Ancient Gold',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '5dOH3eZj3ck',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro', 'historia'],
+    rating: 4.5,
+    source: 'Golden Abyss',
+  },
+
+  {
+    id: 'v2720',
+    title: 'Ancient Gold They Never Wanted Us to Find',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'C2SluMQcf9w',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro', 'historia'],
+    rating: 4.5,
+    source: ' Files Era and more',
+  },
+
+  {
+    id: 'v2721',
+    title: 'Treasure! The Ancient Gold of Troy (History Channel)',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'FwXneI2Wl3w',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro', 'historia'],
+    rating: 4.5,
+    source: 'TheGodofMustard',
+  },
+
+  {
+    id: 'v2722',
+    title: 'We Discovered $50 Million in Ancient Gold Hidden in the Deep Forest!',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'C7YpXIkuwKY',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro', 'historia'],
+    rating: 4.5,
+    source: 'Golden Abyss',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
