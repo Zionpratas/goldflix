@@ -27396,6 +27396,20 @@ const VIDEOS = [
     source: 'Crime Pulse',
   },
 
+  {
+    id: 'v2726',
+    title: 'Polo Joias 2012 - Salvatore',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '3J7LWPtlxrU',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['joalheria'],
+    rating: 4.5,
+    source: 'Polo Joias',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
