@@ -27186,6 +27186,62 @@ const VIDEOS = [
     source: 'Artur m.santos',
   },
 
+  {
+    id: 'v2711',
+    title: 'The Gold Dragon Treasure Hunt | Full Documentary',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'KrhHycMxK4s',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Mega Treasure',
+  },
+
+  {
+    id: 'v2712',
+    title: 'The Hidden Golden Acorn Treasure Hunt | Full Documentary',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'JCER8ZGxPW4',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Mega Treasure',
+  },
+
+  {
+    id: 'v2713',
+    title: 'WE FOUND A REAL TREASURE ! MOST EPIC Box TREASURE HUNT EVER!',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'weV7IaNd9aw',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['mercado'],
+    rating: 4.5,
+    source: 'Tourist Investigation',
+  },
+
+  {
+    id: 'v2714',
+    title: 'The World\'s Greatest Pirate Treasure Mystery | Full Documentary',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'RYFQeeTT07U',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Get.factual',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
