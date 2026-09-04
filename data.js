@@ -27368,6 +27368,20 @@ const VIDEOS = [
     source: 'GoldProspectors',
   },
 
+  {
+    id: 'v2724',
+    title: 'How One Company Convinced the World Diamonds Are Rare — They\'re Not',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '30MSmlAn6GU',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['diamantes'],
+    rating: 4.5,
+    source: 'Money Behind 6',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
