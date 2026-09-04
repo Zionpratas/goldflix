@@ -27354,6 +27354,20 @@ const VIDEOS = [
     source: 'Golden Abyss',
   },
 
+  {
+    id: 'v2723',
+    title: 'The Great Klondike Gold Rush – From Seattle Stampede to Dawson & Nome | Full Documentary',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'AEMwWhJPPjA',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'GoldProspectors',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
