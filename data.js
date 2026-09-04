@@ -27172,6 +27172,20 @@ const VIDEOS = [
     source: 'DW Documentary',
   },
 
+  {
+    id: 'v2710',
+    title: 'Joias Com Arte - Shop. Artífices. 01',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'A2GA4hhP_kQ',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['joalheria'],
+    rating: 4.5,
+    source: 'Artur m.santos',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
