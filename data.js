@@ -27466,6 +27466,20 @@ const VIDEOS = [
     source: 'HISTORY',
   },
 
+  {
+    id: 'v2731',
+    title: 'Bank of England Former Head of Notes and Gold Jack Garrett-Jones on the Dutch gold move',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '0RHbA_Yqx8Y',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['mercado', 'ouro'],
+    rating: 4.5,
+    source: 'Quest Means Business',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
