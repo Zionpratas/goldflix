@@ -27578,6 +27578,20 @@ const VIDEOS = [
     source: 'Stash - Free Documentaries',
   },
 
+  {
+    id: 'v2739',
+    title: 'RITA BITTENCOURT - Joalheria Contemporânea - MOV04981.MPG',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'u2ArWIsVLqs',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Rita Bittencourt',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
