@@ -27536,6 +27536,34 @@ const VIDEOS = [
     source: 'Relaxing Documentaries',
   },
 
+  {
+    id: 'v2736',
+    title: '💎 Inside the Diamond Cutting Workshop – How Rough Stones Become $100,000 Jewelry | Full Process 💍🔍✨',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'nPswMARHXz4',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['diamantes', 'joalheria'],
+    rating: 4.5,
+    source: 'NextGen Process',
+  },
+
+  {
+    id: 'v2737',
+    title: 'How Master Jewelers Repair Their Tools With Millions of Diamonds?',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'DA8Sc_reGkI',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['diamantes', 'joalheria'],
+    rating: 4.5,
+    source: 'Forced Work',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
