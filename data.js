@@ -27564,6 +27564,20 @@ const VIDEOS = [
     source: 'Forced Work',
   },
 
+  {
+    id: 'v2738',
+    title: 'Silver, Speik and Sumpters | Documentary | Full Movie | Miners and Muleteers',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'vYzhqXvtj0M',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['prata', 'mineracao'],
+    rating: 4.5,
+    source: 'Stash - Free Documentaries',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
