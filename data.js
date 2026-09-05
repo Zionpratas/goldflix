@@ -27438,6 +27438,20 @@ const VIDEOS = [
     source: 'Paul ClipMaster',
   },
 
+  {
+    id: 'v2729',
+    title: 'Hilarious and Ingenious Gold Smuggling Methods Exposed! | BISBO',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'U9hXXaGFoPA',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Bisbo Crime',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
