@@ -27452,6 +27452,20 @@ const VIDEOS = [
     source: 'Bisbo Crime',
   },
 
+  {
+    id: 'v2730',
+    title: 'Hidden Tunnels & Buried Silver | The Curse of Oak Island',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'e5vI8sOIaLI',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['prata', 'historia'],
+    rating: 4.5,
+    source: 'HISTORY',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
