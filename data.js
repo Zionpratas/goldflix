@@ -27508,6 +27508,20 @@ const VIDEOS = [
     source: 'The Night Curator',
   },
 
+  {
+    id: 'v2734',
+    title: 'PEDRA RARA BRASILEIRA vários tipos identifique !!!',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'Cx_NaiDgwiY',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Lucas Pedras preciosas',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
