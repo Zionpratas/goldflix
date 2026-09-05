@@ -27522,6 +27522,20 @@ const VIDEOS = [
     source: 'Lucas Pedras preciosas',
   },
 
+  {
+    id: 'v2735',
+    title: 'Pharaoh Psusennes I: The Greatest Gold Treasure History Forgot (Documentary)',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'Gv21sWgJ2Z0',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro', 'historia'],
+    rating: 4.5,
+    source: 'Relaxing Documentaries',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
