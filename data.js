@@ -27480,6 +27480,34 @@ const VIDEOS = [
     source: 'Quest Means Business',
   },
 
+  {
+    id: 'v2732',
+    title: 'Camilla\'s Crown Jewels: The Truth Behind Diana\'s "Stolen" Tiaras',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '-fKlsYhBlIU',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['historia', 'luxo', 'diamantes', 'joalheria'],
+    rating: 4.5,
+    source: 'Diamond Post',
+  },
+
+  {
+    id: 'v2733',
+    title: 'The Irish Crown Jewels Vanished From a Locked Safe | Dark History for Sleep',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'uUvc-XtBPEY',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['historia', 'luxo', 'joalheria'],
+    rating: 4.5,
+    source: 'The Night Curator',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
