@@ -27410,6 +27410,20 @@ const VIDEOS = [
     source: 'Polo Joias',
   },
 
+  {
+    id: 'v2727',
+    title: 'Banks Say Gold Hits $6,000. I Own 15% — and I\'m Not Buying More.',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'khmf5EILrdI',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['mercado', 'ouro'],
+    rating: 4.5,
+    source: 'The Efficient Life',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
