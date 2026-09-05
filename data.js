@@ -27424,6 +27424,20 @@ const VIDEOS = [
     source: 'The Efficient Life',
   },
 
+  {
+    id: 'v2728',
+    title: 'Blood Diamond - Politics, Corruption and Flirting',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'bOA-ZEf90pI',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['diamantes'],
+    rating: 4.5,
+    source: 'Paul ClipMaster',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
