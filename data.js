@@ -27648,6 +27648,20 @@ const VIDEOS = [
     source: 'Boxoffice | ROMANCE | Full Movies',
   },
 
+  {
+    id: 'v2744',
+    title: 'From Small Workshop to Global Jewelry Empire | Full Business Documentary',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'mUXQwd20n1M',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['joalheria'],
+    rating: 4.5,
+    source: 'Life Turnaround Stories Origins',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
