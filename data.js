@@ -27760,6 +27760,34 @@ const VIDEOS = [
     source: 'Quest TV',
   },
 
+  {
+    id: 'v2752',
+    title: 'O Caso Manoelzinho: O Garimpeiro Mais Temido da Guiana Francesa',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'k5l7HftD1O8',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Fatos sangrentos',
+  },
+
+  {
+    id: 'v2753',
+    title: 'Serra Pelada: como 100 mil homens transformaram uma serra do Pará em um formigueiro humano',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'DqKgKNR0-iM',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Ponto Cego',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
