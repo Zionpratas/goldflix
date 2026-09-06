@@ -27746,6 +27746,20 @@ const VIDEOS = [
     source: 'O Garimpeiro Joias Folheadas Com Pedras Naturais',
   },
 
+  {
+    id: 'v2751',
+    title: '$50,000 Gold Haul Forces A MASSIVE Mining Decision | Aussie Gold Hunters | FULL EPISODE',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '72E3apk-iF0',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['mineracao', 'ouro'],
+    rating: 4.5,
+    source: 'Quest TV',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
