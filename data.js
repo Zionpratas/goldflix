@@ -27816,6 +27816,20 @@ const VIDEOS = [
     source: 'Lesley Talks ',
   },
 
+  {
+    id: 'v2756',
+    title: '🔴 WATCH NOW: Rick Ness\' $1M Valhalla Cut & Vegas Valley | Gold Rush | Discovery',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'FXbwbQbQdN8',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Discovery',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
