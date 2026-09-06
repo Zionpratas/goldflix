@@ -27592,6 +27592,20 @@ const VIDEOS = [
     source: 'Rita Bittencourt',
   },
 
+  {
+    id: 'v2740',
+    title: 'I Investigated Africa\'s Blood Diamonds',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'ufLocYs9o-s',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['mercado', 'diamantes', 'joalheria'],
+    rating: 4.5,
+    source: 'TraxNYC Diamond Jewelry',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
