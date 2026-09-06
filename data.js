@@ -27704,6 +27704,20 @@ const VIDEOS = [
     source: 'The Diary Of A CEO',
   },
 
+  {
+    id: 'v2748',
+    title: 'YANUNI | Inside the Battle for the Amazon | Oscar® Shortlisted Documentary Feature Film',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'RhDdAONYZeQ',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Leonardo DiCaprio',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
