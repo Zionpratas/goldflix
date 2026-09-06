@@ -27662,6 +27662,20 @@ const VIDEOS = [
     source: 'Life Turnaround Stories Origins',
   },
 
+  {
+    id: 'v2745',
+    title: 'Living in Platinum MineFields : Undermining our Future - Luka',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'msjWNgFJ_tQ',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['prata', 'mineracao'],
+    rating: 4.5,
+    source: 'Bobby Marie',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
