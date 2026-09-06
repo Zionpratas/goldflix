@@ -27606,6 +27606,34 @@ const VIDEOS = [
     source: 'TraxNYC Diamond Jewelry',
   },
 
+  {
+    id: 'v2741',
+    title: 'Rise of Steel: Forging Europe\'s Industrial Revolution I SLICE HISTORY | FULL DOCUMENTARY',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'zsPYi2KQ2a0',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['historia'],
+    rating: 4.5,
+    source: 'SLICE History',
+  },
+
+  {
+    id: 'v2742',
+    title: 'The Greatest Archaeological Finds in Recent Years | Full History Hit Series',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'wFpGQBHxW6s',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['historia'],
+    rating: 4.5,
+    source: 'History Hit',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
