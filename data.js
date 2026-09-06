@@ -27718,6 +27718,20 @@ const VIDEOS = [
     source: 'Leonardo DiCaprio',
   },
 
+  {
+    id: 'v2749',
+    title: '"Central Banks Owning More & More Gold..." - Matthew Piepenburg',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'bIOh-cymQtU',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['mercado', 'ouro'],
+    rating: 4.5,
+    source: 'LifeWorthLiving',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
