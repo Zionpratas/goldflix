@@ -27802,6 +27802,20 @@ const VIDEOS = [
     source: 'The Gilded Age',
   },
 
+  {
+    id: 'v2755',
+    title: 'Uebert Angel caught in a money laundering syndicate. MUST WATCH!!!',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'zlfPcu3qoTw',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Lesley Talks ',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
