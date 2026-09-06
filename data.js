@@ -27788,6 +27788,20 @@ const VIDEOS = [
     source: 'Ponto Cego',
   },
 
+  {
+    id: 'v2754',
+    title: 'The $250M Patiala Necklace: How Cartier\'s Masterpiece Destroyed a Maharaja | Lost Royal Jewelry',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'bSLovpQgLVc',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['luxo', 'joalheria'],
+    rating: 4.5,
+    source: 'The Gilded Age',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
