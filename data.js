@@ -27676,6 +27676,34 @@ const VIDEOS = [
     source: 'Bobby Marie',
   },
 
+  {
+    id: 'v2746',
+    title: 'Marc Faber: Prepare for an Historic Destruction of Wealth.',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'mPkrVUemGWo',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'maneco64',
+  },
+
+  {
+    id: 'v2747',
+    title: 'The Man Who Owns 4% Of All Bitcoin: "I Made $15 Billion By Using ChatGPT!" | Michael Saylor',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '1aGpJQ8BMLI',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'The Diary Of A CEO',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
