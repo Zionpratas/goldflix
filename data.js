@@ -27732,6 +27732,20 @@ const VIDEOS = [
     source: 'LifeWorthLiving',
   },
 
+  {
+    id: 'v2750',
+    title: 'Conjunto de pedra ágata de fogo DIY',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '1d0VilL6H78',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['joalheria'],
+    rating: 4.5,
+    source: 'O Garimpeiro Joias Folheadas Com Pedras Naturais',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
