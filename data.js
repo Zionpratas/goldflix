@@ -27634,6 +27634,20 @@ const VIDEOS = [
     source: 'History Hit',
   },
 
+  {
+    id: 'v2743',
+    title: 'Forbidden Romance | ROMANCE, DRAMA | Full Movie in English',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '_CoVEWECfb4',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['historia'],
+    rating: 4.5,
+    source: 'Boxoffice | ROMANCE | Full Movies',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
