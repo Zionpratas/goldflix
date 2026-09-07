@@ -27900,6 +27900,20 @@ const VIDEOS = [
     source: 'Factory Secrets',
   },
 
+  {
+    id: 'v2762',
+    title: '"Outrageous" masterpieces of a jewelry genius: René Lalique\'s breathtaking work',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '_N0XGYF6Hbs',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['joalheria'],
+    rating: 4.5,
+    source: 'Jewelry Stories',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
