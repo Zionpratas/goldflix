@@ -27858,6 +27858,20 @@ const VIDEOS = [
     source: 'Royalworld - Nobility & Dynasties',
   },
 
+  {
+    id: 'v2759',
+    title: 'American Gold Rush History Documentary - The Best Documentary Ever',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'al7sbRO4enc',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro', 'historia'],
+    rating: 4.5,
+    source: 'Branson Jast',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
