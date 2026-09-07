@@ -27872,6 +27872,20 @@ const VIDEOS = [
     source: 'Branson Jast',
   },
 
+  {
+    id: 'v2760',
+    title: 'Tiffany: "I Think We\'re Alone Now" is a Creepy, Dark Stalker-doc Ever! Let\'s Watch',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'PCFKABewwF4',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['luxo'],
+    rating: 4.5,
+    source: 'Back To The Sofa',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
