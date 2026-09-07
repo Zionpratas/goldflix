@@ -27886,6 +27886,20 @@ const VIDEOS = [
     source: 'Back To The Sofa',
   },
 
+  {
+    id: 'v2761',
+    title: 'A mais incrível fábrica de joias: o segredo do pingente de osso!',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'cP_1x1FHMa4',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['joalheria'],
+    rating: 4.5,
+    source: 'Factory Secrets',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
