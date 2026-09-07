@@ -27844,6 +27844,20 @@ const VIDEOS = [
     source: 'Canal History Brasil',
   },
 
+  {
+    id: 'v2758',
+    title: 'The Royal Jewels - Part 01 | Crown Gems',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'CjmEtBwhvJU',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['gemologia', 'historia', 'luxo', 'joalheria'],
+    rating: 4.5,
+    source: 'Royalworld - Nobility & Dynasties',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
