@@ -27830,6 +27830,20 @@ const VIDEOS = [
     source: 'Discovery',
   },
 
+  {
+    id: 'v2757',
+    title: 'Se for real, tem mais de MIL ANOS!  | TRATO FEITO | EPISÓDIO COMPLETO',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'jhcsVE-1HqE',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['historia'],
+    rating: 4.5,
+    source: 'Canal History Brasil',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
