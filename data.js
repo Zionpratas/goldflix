@@ -27998,6 +27998,20 @@ const VIDEOS = [
     source: 'World Gold Council',
   },
 
+  {
+    id: 'v2769',
+    title: 'INFILTRATO DENTRO AL TRAFFICO DI DIAMANTI PIÙ GRANDE DEL MONDO 🇸🇱',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'cr-EqMzeGNQ',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Progetto Happiness',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
