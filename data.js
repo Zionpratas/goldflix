@@ -28012,6 +28012,20 @@ const VIDEOS = [
     source: 'Progetto Happiness',
   },
 
+  {
+    id: 'v2770',
+    title: 'How Iridium Is Extracted From Platinum Ore in South Africa',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'YmwyowcPckg',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['prata'],
+    rating: 4.5,
+    source: 'Factory Secrets: How It\'s Made',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
