@@ -27956,6 +27956,20 @@ const VIDEOS = [
     source: 'Discovery UK',
   },
 
+  {
+    id: 'v2766',
+    title: 'GOLD RUSH - GOLD TOWNS (Old Wild West History Documentary)',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '6aEoklqQZzc',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro', 'historia'],
+    rating: 4.5,
+    source: 'jimp jehad',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
