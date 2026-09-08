@@ -28026,6 +28026,34 @@ const VIDEOS = [
     source: 'Factory Secrets: How It\'s Made',
   },
 
+  {
+    id: 'v2771',
+    title: 'Stone Setting Tips and Tricks with Blaine Lewis',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'j4NUITpgWUQ',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Rio Grande',
+  },
+
+  {
+    id: 'v2772',
+    title: 'Inside the Handcrafted Jewelry Factory – (Full Process) How Premium Jewelry Is Made',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '0c7Vy2WDWYM',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['joalheria'],
+    rating: 4.5,
+    source: 'Inside The Process',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
