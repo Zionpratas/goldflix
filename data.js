@@ -27914,6 +27914,34 @@ const VIDEOS = [
     source: 'Jewelry Stories',
   },
 
+  {
+    id: 'v2763',
+    title: 'The Secret to Spotting Gems Inside Boring Rock',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'aeh5IQ8tVII',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['gemologia'],
+    rating: 4.5,
+    source: 'Michael Gems',
+  },
+
+  {
+    id: 'v2764',
+    title: 'Not Rubies… These Red Stones Are Worth More Than Gold',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'm8h8pyF8YCc',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['gemologia', 'ouro'],
+    rating: 4.5,
+    source: 'Pro Gems ',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
