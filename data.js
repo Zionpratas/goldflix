@@ -28054,6 +28054,34 @@ const VIDEOS = [
     source: 'Inside The Process',
   },
 
+  {
+    id: 'v2773',
+    title: 'DOCUMENTÁRIO GARIMPO SUSTENTÁVEL 4K',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'pS81lZWBDA4',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['mineracao'],
+    rating: 4.5,
+    source: 'Estado do Amanhã',
+  },
+
+  {
+    id: 'v2774',
+    title: 'O Inferno de Serra Pelada: 80 Mil Homens, R$2 Bilhões em Ouro, 800 Mortos',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'Rt1WhHpzwn4',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Ouro Maldito',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
