@@ -27970,6 +27970,34 @@ const VIDEOS = [
     source: 'jimp jehad',
   },
 
+  {
+    id: 'v2767',
+    title: 'Gold: What Central Banks Know That Investors Miss',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'Hdaiy7ZOhTI',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro', 'mercado'],
+    rating: 4.5,
+    source: 'VON GREYERZ',
+  },
+
+  {
+    id: 'v2768',
+    title: 'How much gold is in the Bank of England? Gold: A Journey with Idris Elba',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'InrTZgi74qQ',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro', 'mercado'],
+    rating: 4.5,
+    source: 'World Gold Council',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
