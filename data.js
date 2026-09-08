@@ -27942,6 +27942,20 @@ const VIDEOS = [
     source: 'Pro Gems ',
   },
 
+  {
+    id: 'v2765',
+    title: 'How Were The French Crown Jewels Stolen? | The Louvre Heist Minute By Minute',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'CzMtfwQA-gk',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['historia', 'luxo', 'joalheria'],
+    rating: 4.5,
+    source: 'Discovery UK',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
