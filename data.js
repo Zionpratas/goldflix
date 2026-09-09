@@ -28152,6 +28152,20 @@ const VIDEOS = [
     source: 'Raul Busgaib',
   },
 
+  {
+    id: 'v2780',
+    title: 'Why Platinum Could Be the Next Gold | The Forgotten Metal History Is Repeating Again',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'WkQ972yW96I',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['prata', 'ouro', 'historia'],
+    rating: 4.5,
+    source: 'Economic Truth',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
