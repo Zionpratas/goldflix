@@ -28208,6 +28208,20 @@ const VIDEOS = [
     source: 'Canal History Brasil',
   },
 
+  {
+    id: 'v2784',
+    title: 'Dozens Of Artworks Unearthed | Hunting Nazi Treasure | Season 1 Episode 8',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'MJ_PvcKFHzQ',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['historia'],
+    rating: 4.5,
+    source: 'Ancient History',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
