@@ -28138,6 +28138,20 @@ const VIDEOS = [
     source: 'Gemologiabrasil',
   },
 
+  {
+    id: 'v2779',
+    title: 'Busgaib Joias ...Um brilho que há em você',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'kEca5OVmub4',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['joalheria'],
+    rating: 4.5,
+    source: 'Raul Busgaib',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
