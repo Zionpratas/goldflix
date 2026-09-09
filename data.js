@@ -28194,6 +28194,20 @@ const VIDEOS = [
     source: 'Inbracultmode',
   },
 
+  {
+    id: 'v2783',
+    title: 'História secreta do ouro | AMÉRICA: SEGREDOS DE ESTADO | HISTORY',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'XVvfklp5TBA',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['ouro', 'historia'],
+    rating: 4.5,
+    source: 'Canal History Brasil',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
