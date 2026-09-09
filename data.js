@@ -28166,6 +28166,20 @@ const VIDEOS = [
     source: 'Economic Truth',
   },
 
+  {
+    id: 'v2781',
+    title: 'Inside the 24K Gold Refinery – How Raw Ore Becomes Pure Gold Bars (Full Process)',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'BPPYlEUkKNY',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Factory Insight Hub',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
