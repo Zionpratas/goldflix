@@ -28180,6 +28180,20 @@ const VIDEOS = [
     source: 'Factory Insight Hub',
   },
 
+  {
+    id: 'v2782',
+    title: 'Roda da Moda- Jóias da Coroa',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'GHN8IVlyLuQ',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Espanhol',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Inbracultmode',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
