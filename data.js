@@ -28082,6 +28082,62 @@ const VIDEOS = [
     source: 'Ouro Maldito',
   },
 
+  {
+    id: 'v2775',
+    title: 'PEDRAS  BRASILEIRAS -  COLEÇÃO',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'XbY53jR573E',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Alexandre pereira viana',
+  },
+
+  {
+    id: 'v2776',
+    title: 'Pedras Preciosas Brasileiras. OPALAS DO PIAUÍ.',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'My5h5d5aANg',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'D T P P N',
+  },
+
+  {
+    id: 'v2777',
+    title: 'Pedras Preciosas do Brasil - Turmalinas Brasileiras',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'e-oPFaA6IIw',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['gemologia'],
+    rating: 4.5,
+    source: 'Gemologiabrasil',
+  },
+
+  {
+    id: 'v2778',
+    title: 'Pedras Preciosas do Brasil - Turmalinas Brasileiras',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'vCXPBaG9PWw',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['gemologia'],
+    rating: 4.5,
+    source: 'Gemologiabrasil',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
