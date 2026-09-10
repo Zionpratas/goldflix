@@ -28292,6 +28292,20 @@ const VIDEOS = [
     source: 'Coveant',
   },
 
+  {
+    id: 'v2790',
+    title: 'Unlike YOU, I Won\'t Die In 5,000 Years Thanks To This Movie',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'v0crz_MHTFM',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Melody Nosurname',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
