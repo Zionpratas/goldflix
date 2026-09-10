@@ -28236,6 +28236,20 @@ const VIDEOS = [
     source: 'Adriano - Pedras Preciosas',
   },
 
+  {
+    id: 'v2786',
+    title: '$3 Million Diamond Ring - How It Was Made!',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '7Eqz82BDaZ8',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['diamantes'],
+    rating: 4.5,
+    source: 'Bobby White',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
