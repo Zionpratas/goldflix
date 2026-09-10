@@ -28306,6 +28306,20 @@ const VIDEOS = [
     source: 'Melody Nosurname',
   },
 
+  {
+    id: 'v2791',
+    title: 'China Is Taking HALF the World\'s Gold Supply — What Happens Next? | Eric Robinson',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'JuS_fvIY_MM',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'maneco64',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
