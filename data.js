@@ -28250,6 +28250,20 @@ const VIDEOS = [
     source: 'Bobby White',
   },
 
+  {
+    id: 'v2787',
+    title: 'At The Edge of The World, They Grow Pearls',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'pNjeKXI4mcw',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['gemologia'],
+    rating: 4.5,
+    source: 'JDAVisuals',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
