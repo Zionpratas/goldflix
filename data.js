@@ -28264,6 +28264,20 @@ const VIDEOS = [
     source: 'JDAVisuals',
   },
 
+  {
+    id: 'v2788',
+    title: 'Scientists May Have Finally Found the Real El Dorado | Full Documentary',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'IqypMxVgVbk',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Get.factual',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
