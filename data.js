@@ -28222,6 +28222,20 @@ const VIDEOS = [
     source: 'Ancient History',
   },
 
+  {
+    id: 'v2785',
+    title: 'AQUI VOCÊ PODE GARIMPAR SUAS ESMERALDAS',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'Wqi0xWDqlvk',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Adriano - Pedras Preciosas',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
