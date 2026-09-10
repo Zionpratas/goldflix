@@ -28320,6 +28320,20 @@ const VIDEOS = [
     source: 'maneco64',
   },
 
+  {
+    id: 'v2792',
+    title: 'Ibirapitanga',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '0D4JPff1YJk',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Gabriel Macedo',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
