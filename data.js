@@ -28278,6 +28278,20 @@ const VIDEOS = [
     source: 'Get.factual',
   },
 
+  {
+    id: 'v2789',
+    title: 'Black Pearls of Polynesia',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'MUTGI2qak-I',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['gemologia'],
+    rating: 4.5,
+    source: 'Coveant',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
