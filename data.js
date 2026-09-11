@@ -28362,6 +28362,20 @@ const VIDEOS = [
     source: 'Journal - History Documentaries',
   },
 
+  {
+    id: 'v2795',
+    title: 'Best Documentary 2016 The Worlds Largest and Deepest Gold Mine In Human History Ever Made On Earth',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '0OwKAfYNPzw',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['historia', 'ouro', 'mineracao'],
+    rating: 4.5,
+    source: 'Francis Gomez',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
