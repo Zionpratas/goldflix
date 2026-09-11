@@ -28348,6 +28348,20 @@ const VIDEOS = [
     source: 'Innovation Beat',
   },
 
+  {
+    id: 'v2794',
+    title: 'Incredible Discovery Of Ancient Gold Worth THOUSANDS! | Great British History Hunters',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '4Cjgjad4hjo',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro', 'historia'],
+    rating: 4.5,
+    source: 'Journal - History Documentaries',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
