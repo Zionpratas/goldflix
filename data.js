@@ -28418,6 +28418,20 @@ const VIDEOS = [
     source: 'Bright Side History Legends Awakened',
   },
 
+  {
+    id: 'v2799',
+    title: 'Josh Gates Goes Treasure Hunting Around the World! 🔍🌎  Expedition Unknown | Discovery',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'hQMqqnt5USs',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Discovery',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
