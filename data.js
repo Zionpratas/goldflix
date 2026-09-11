@@ -28432,6 +28432,20 @@ const VIDEOS = [
     source: 'Discovery',
   },
 
+  {
+    id: 'v2800',
+    title: 'How It’s Made: Lab-Grown Diamonds, Coins & Silver',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'A_OXMdYL5Hw',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['prata', 'diamantes'],
+    rating: 4.5,
+    source: 'Captain Discovery',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
