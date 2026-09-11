@@ -28334,6 +28334,20 @@ const VIDEOS = [
     source: 'Gabriel Macedo',
   },
 
+  {
+    id: 'v2793',
+    title: 'Inside the Platinum Factory: The Metal 95% of the World Mines From Just 2 Countries (Full Process)',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'g0siZdmTwuM',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['prata', 'mineracao'],
+    rating: 4.5,
+    source: 'Innovation Beat',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
