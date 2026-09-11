@@ -28404,6 +28404,20 @@ const VIDEOS = [
     source: 'Il Faraone Tours',
   },
 
+  {
+    id: 'v2798',
+    title: 'A Mummy Covered in Gold Was Hidden Near Egypt’s Step Pyramid. Cleopatra?',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '2Bmpu9Sa8K4',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro', 'historia'],
+    rating: 4.5,
+    source: 'Bright Side History Legends Awakened',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
