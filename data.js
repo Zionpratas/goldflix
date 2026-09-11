@@ -28446,6 +28446,20 @@ const VIDEOS = [
     source: 'Captain Discovery',
   },
 
+  {
+    id: 'v2801',
+    title: 'Americas Now— Time is dust: Peru\'s illegal gold mining 03/07/2016',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'eYATY2j_Ago',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro', 'mineracao'],
+    rating: 4.5,
+    source: 'Hi China',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
