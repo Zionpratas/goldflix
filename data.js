@@ -28376,6 +28376,34 @@ const VIDEOS = [
     source: 'Francis Gomez',
   },
 
+  {
+    id: 'v2796',
+    title: 'All that Glitters: Ancient Egyptian Jewelry with Lilith!',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'OTAgpDZY0Qs',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['joalheria', 'historia'],
+    rating: 4.5,
+    source: 'Digital Hammurabi',
+  },
+
+  {
+    id: 'v2797',
+    title: 'All Jewelry of Tutankhamun at GEM | Gioielleria di Tutankhamun al GEM',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'Kp5U4gCwEkw',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['joalheria', 'gemologia'],
+    rating: 4.5,
+    source: 'Il Faraone Tours',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
