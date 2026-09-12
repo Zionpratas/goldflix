@@ -28530,6 +28530,34 @@ const VIDEOS = [
     source: 'Bondi Treasure Hunter',
   },
 
+  {
+    id: 'v2807',
+    title: 'Conheça o joalheiro do momento',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'vnskGiU9zqs',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Aloisi Joalheria',
+  },
+
+  {
+    id: 'v2808',
+    title: 'PEDRAS PRECIOSAS MAIS CARAS DO BRASIL',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'Utkw-6CDocM',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Jair Monteiro pedras e achados',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
