@@ -28558,6 +28558,20 @@ const VIDEOS = [
     source: 'Jair Monteiro pedras e achados',
   },
 
+  {
+    id: 'v2809',
+    title: 'Platinum Is Not What You Think. They Used to Throw It Away',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'T2yii382zSU',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['prata'],
+    rating: 4.5,
+    source: 'Elements-M',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
