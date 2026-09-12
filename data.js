@@ -28474,6 +28474,20 @@ const VIDEOS = [
     source: 'Kinetic Motion',
   },
 
+  {
+    id: 'v2803',
+    title: 'I Visited the Most Remote Pearl Farm in the World',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '1Nxq8RA_YJ4',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['gemologia'],
+    rating: 4.5,
+    source: 'JDAVisuals',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
