@@ -28502,6 +28502,34 @@ const VIDEOS = [
     source: 'Jair Monteiro pedras e achados',
   },
 
+  {
+    id: 'v2805',
+    title: 'Priceless Berlin Art Discovered in Soviet Vaults | Hunting Nazi Treasures Season 1 Episode 7',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'OA-hGS4vtzs',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['mercado'],
+    rating: 4.5,
+    source: 'World\'s Most',
+  },
+
+  {
+    id: 'v2806',
+    title: 'Ultimate Criminal Canal Found Magnet Fishing! Police on the Hunt',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '_cyJhGsXDDM',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Bondi Treasure Hunter',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
