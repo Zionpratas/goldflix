@@ -28488,6 +28488,20 @@ const VIDEOS = [
     source: 'JDAVisuals',
   },
 
+  {
+    id: 'v2804',
+    title: 'Pedras preciosas do Brasil Rio grande do Sul',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'qlZs_Qx9lEU',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Jair Monteiro pedras e achados',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
