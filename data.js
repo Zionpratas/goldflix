@@ -28460,6 +28460,20 @@ const VIDEOS = [
     source: 'Hi China',
   },
 
+  {
+    id: 'v2802',
+    title: 'Gathering Diamonds from the Sea: MV Peace in Africa | FULL EPISODE | Kinetic Motion',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'JdQIix3utM4',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['diamantes'],
+    rating: 4.5,
+    source: 'Kinetic Motion',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
