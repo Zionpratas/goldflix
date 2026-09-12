@@ -28572,6 +28572,20 @@ const VIDEOS = [
     source: 'Elements-M',
   },
 
+  {
+    id: 'v2810',
+    title: 'A História do Ouro — O Metal que Enriqueceu o Mundo e Deixou o Brasil na Miséria | Documentário',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '93MecskUcAk',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Tudo Tem Uma Historia',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
