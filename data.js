@@ -28614,6 +28614,20 @@ const VIDEOS = [
     source: 'Lapidary Dave',
   },
 
+  {
+    id: 'v2813',
+    title: 'The Pokémon Ruby / Sapphire Experience',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'e_t-iZISt7k',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['gemologia'],
+    rating: 4.5,
+    source: 'Livvvid',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
