@@ -28726,6 +28726,34 @@ const VIDEOS = [
     source: 'gmourag',
   },
 
+  {
+    id: 'v2821',
+    title: 'Vida no Garimpo Pará',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '1gAKO9_ehLM',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['mineracao'],
+    rating: 4.5,
+    source: 'Paulo Jr',
+  },
+
+  {
+    id: 'v2822',
+    title: '0 0 0 0 DOCUMENTÁRIO GARIMPO BANDEIRA Frutal Otavio da Luta',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'GTq3P6vvNnk',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['mineracao'],
+    rating: 4.5,
+    source: 'otavio Editora Prospectiva',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
