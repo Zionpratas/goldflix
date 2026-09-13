@@ -28642,6 +28642,20 @@ const VIDEOS = [
     source: 'Factory Process ',
   },
 
+  {
+    id: 'v2815',
+    title: 'The Uncrowned Jewels - 1987 BBC News Documentary',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'BdJaURVZ7uI',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['joalheria', 'historia', 'luxo'],
+    rating: 4.5,
+    source: 'Martyn Gregory (MG93)',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
