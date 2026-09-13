@@ -28656,6 +28656,20 @@ const VIDEOS = [
     source: 'Martyn Gregory (MG93)',
   },
 
+  {
+    id: 'v2816',
+    title: 'The Dark Secrets of Ancient Egyptian Jewelry',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '-WLqb9hCn30',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['joalheria', 'historia'],
+    rating: 4.5,
+    source: 'James Michigan ',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
