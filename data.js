@@ -28684,6 +28684,20 @@ const VIDEOS = [
     source: 'Diamond Industry',
   },
 
+  {
+    id: 'v2818',
+    title: 'Mdogoake DIAMOND amtongoza MIMI MALI x wa dul vanny ukumbini',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'lCycnhF2fn8',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['diamantes'],
+    rating: 4.5,
+    source: 'Trend TV',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
