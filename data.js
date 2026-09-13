@@ -28712,6 +28712,20 @@ const VIDEOS = [
     source: 'APMEX',
   },
 
+  {
+    id: 'v2820',
+    title: 'Laluce Joias - www.lalucejoias.com.br',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'OhLx2F2DVaI',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['joalheria'],
+    rating: 4.5,
+    source: 'gmourag',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
