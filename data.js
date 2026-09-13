@@ -28628,6 +28628,20 @@ const VIDEOS = [
     source: 'Livvvid',
   },
 
+  {
+    id: 'v2814',
+    title: 'Inside the World\'s Largest Gold Refinery | How Pure 24K Gold Bars Are Made',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'RVBVMgXbIq8',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Factory Process ',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
