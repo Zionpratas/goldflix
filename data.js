@@ -28586,6 +28586,34 @@ const VIDEOS = [
     source: 'Tudo Tem Uma Historia',
   },
 
+  {
+    id: 'v2811',
+    title: 'Cutting Agate the Old Way || Historic Lapidary Mill in Idar-Oberstein, Germany',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'CIWCbfmr9Jg',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['gemologia'],
+    rating: 4.5,
+    source: 'Rubble Rock And Gem',
+  },
+
+  {
+    id: 'v2812',
+    title: 'Persian Turquoise, Hackmanite, & More at the Denver Gem and Mineral Show 2023',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'Nn2bf8qytyk',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['mineracao', 'gemologia'],
+    rating: 4.5,
+    source: 'Lapidary Dave',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
