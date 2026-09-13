@@ -28698,6 +28698,20 @@ const VIDEOS = [
     source: 'Trend TV',
   },
 
+  {
+    id: 'v2819',
+    title: 'The Debasement Trade: Why Rising Yields Aren\'t Stopping Gold',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'WUYE8ThAFuA',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'APMEX',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
