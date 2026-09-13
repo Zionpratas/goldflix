@@ -28670,6 +28670,20 @@ const VIDEOS = [
     source: 'James Michigan ',
   },
 
+  {
+    id: 'v2817',
+    title: 'Diamond Polishing Unit (Ghetiya Gems Diamond workshop) | Diamond Industry',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '1JbjLylacCc',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['gemologia', 'diamantes'],
+    rating: 4.5,
+    source: 'Diamond Industry',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
