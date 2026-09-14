@@ -28754,6 +28754,62 @@ const VIDEOS = [
     source: 'otavio Editora Prospectiva',
   },
 
+  {
+    id: 'v2823',
+    title: 'Discovering a Hidden Ancient Treasure Chamber Lost for 3,000 Years',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '4PK8PvnBjmU',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro', 'historia'],
+    rating: 4.5,
+    source: 'Golden Abyss',
+  },
+
+  {
+    id: 'v2824',
+    title: 'MOST Uncovered Ancient Mysteries No One Has Ever Solved | For Sleep',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '7ZWb4pp2xjE',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['historia'],
+    rating: 4.5,
+    source: 'Timeless Mysteries',
+  },
+
+  {
+    id: 'v2825',
+    title: 'The Hidden Gold Treasures of the Mali King the World Was Never Meant to See',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'FffM8zDmbwI',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'The Silent Depths',
+  },
+
+  {
+    id: 'v2826',
+    title: 'Inside Ancient Egypt’s Gold Factory: How Pharaohs Mined and Refined Gold (Full Process)',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'sU0VNhDOPEE',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['historia', 'ouro', 'mineracao'],
+    rating: 4.5,
+    source: 'Innovation Beat',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
