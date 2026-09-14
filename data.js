@@ -28866,6 +28866,20 @@ const VIDEOS = [
     source: 'Mulheres SV',
   },
 
+  {
+    id: 'v2831',
+    title: 'Why Central Banks Are Moving Their Gold Home',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'nFlc7Ipaco4',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro', 'mercado'],
+    rating: 4.5,
+    source: 'Macro Flow',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
