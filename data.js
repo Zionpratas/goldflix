@@ -28880,6 +28880,20 @@ const VIDEOS = [
     source: 'Macro Flow',
   },
 
+  {
+    id: 'v2832',
+    title: 'Breaking a Seal No One Touched Since 1989 | Hunting Nazi Treasure',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'ikVb1Y-w7-c',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['historia'],
+    rating: 4.5,
+    source: 'Banijay History',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
