@@ -28810,6 +28810,62 @@ const VIDEOS = [
     source: 'Innovation Beat',
   },
 
+  {
+    id: 'v2827',
+    title: '4 Passos para você começar na ourivesaria de forma correta e faturar 5 mil fazendo as próprias joias',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'WlH6wPcp9AY',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['joalheria'],
+    rating: 4.5,
+    source: 'Ailton Batista | Professor de Ourivesaria',
+  },
+
+  {
+    id: 'v2828',
+    title: 'Como são feitas as JOIAS #Boravê!',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'G0F8Ienh914',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['joalheria'],
+    rating: 4.5,
+    source: 'Manual do Mundo',
+  },
+
+  {
+    id: 'v2829',
+    title: 'Kit De Ferramentas Básicas Para Iniciantes da Joalheria  - Série Iniciando na Joalheria.',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'i827guEYaZE',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Manual da Joalheria',
+  },
+
+  {
+    id: 'v2830',
+    title: 'Fabricação de joias ARTESANAIS 💍',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'bpB1R4fZKzM',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['joalheria'],
+    rating: 4.5,
+    source: 'Mulheres SV',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
