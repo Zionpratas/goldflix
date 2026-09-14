@@ -28894,6 +28894,20 @@ const VIDEOS = [
     source: 'Banijay History',
   },
 
+  {
+    id: 'v2833',
+    title: 'Guyana, The Convoys of the Lost World',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'Cw_a8BnM68g',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Deadliest Roads',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
