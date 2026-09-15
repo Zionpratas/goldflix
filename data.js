@@ -28978,6 +28978,20 @@ const VIDEOS = [
     source: 'Complete Tech Head',
   },
 
+  {
+    id: 'v2839',
+    title: 'How a $1M Blue Sapphire Engagement Ring Is Made: From Raw Gem to Masterpiece (Full Process)',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'p-Gq_fnV93M',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['gemologia'],
+    rating: 4.5,
+    source: 'Defense Factory',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
