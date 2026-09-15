@@ -28992,6 +28992,20 @@ const VIDEOS = [
     source: 'Defense Factory',
   },
 
+  {
+    id: 'v2840',
+    title: 'Baby Geniuses and the Mystery of the Crown Jewels FULL MOVIE | Family Movies | Girls Night In Movies',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '9Zv1n18d6EE',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['joalheria', 'luxo', 'historia'],
+    rating: 4.5,
+    source: 'Girls Night In ',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
