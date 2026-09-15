@@ -29006,6 +29006,20 @@ const VIDEOS = [
     source: 'Girls Night In ',
   },
 
+  {
+    id: 'v2841',
+    title: 'China\'s New Diamond Factories Could Replace Mining Forever',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'pkHzioi9nqQ',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['mineracao', 'diamantes'],
+    rating: 4.5,
+    source: 'Ground Break',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
