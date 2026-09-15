@@ -29020,6 +29020,34 @@ const VIDEOS = [
     source: 'Ground Break',
   },
 
+  {
+    id: 'v2842',
+    title: '[FULL] 💎🔥The Lost Heiress of Lady Diamond Returns',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'sI4RdXOxlP4',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['diamantes'],
+    rating: 4.5,
+    source: 'FlipThatDrama',
+  },
+
+  {
+    id: 'v2843',
+    title: 'DIAMOND PLATNUMZ ft OMARION - African Beauty (Clean Version)',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'FH2QsiBixe4',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['diamantes'],
+    rating: 4.5,
+    source: 'Diamond Platnumz',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
