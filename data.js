@@ -29048,6 +29048,20 @@ const VIDEOS = [
     source: 'Diamond Platnumz',
   },
 
+  {
+    id: 'v2844',
+    title: 'O Peso do Ouro — Documentário Oficial (Directed by @Thecrazyvines )',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'nu3_rMHp2IM',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Rvssampaioteamtv',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
