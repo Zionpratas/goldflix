@@ -28908,6 +28908,34 @@ const VIDEOS = [
     source: 'Deadliest Roads',
   },
 
+  {
+    id: 'v2834',
+    title: 'Risks of Revealing UFO Secrets | UFO Cover Ups: Secrets Revealed | Full Special',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'ePYIkXg2k8I',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['historia'],
+    rating: 4.5,
+    source: 'HISTORY',
+  },
+
+  {
+    id: 'v2835',
+    title: 'Sinbad and the Seven Voyages — The Sea Beast and the Valley of Diamonds',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'oTfcaItogO8',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['diamantes'],
+    rating: 4.5,
+    source: 'The Next Show | Stories That Feel Like Movies',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
