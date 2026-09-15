@@ -28936,6 +28936,48 @@ const VIDEOS = [
     source: 'The Next Show | Stories That Feel Like Movies',
   },
 
+  {
+    id: 'v2836',
+    title: '$30 Million Dollar Coins and Other SHOCKING APPRAISALS! | Pawn Stars',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'mCFL5A-sF_E',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Pawn Stars',
+  },
+
+  {
+    id: 'v2837',
+    title: 'The Shocking Truth About the Watches Empire - Richard Mille (documentary)',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'in7synnDSPo',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Design Stories',
+  },
+
+  {
+    id: 'v2838',
+    title: 'The Lazar Tape (1991) - Original Bob Lazar Documentary - HQ Restoration 2024 Best Quality Version',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'NmDVku1PQnI',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Complete Tech Head',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
