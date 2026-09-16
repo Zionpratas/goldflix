@@ -29118,6 +29118,20 @@ const VIDEOS = [
     source: 'Diamond Platnumz',
   },
 
+  {
+    id: 'v2849',
+    title: 'Varna Necropolis: The Genesis of Civilization Documentary',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'GC-DJW51ocw',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Galileo 3.14',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
