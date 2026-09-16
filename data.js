@@ -29188,6 +29188,20 @@ const VIDEOS = [
     source: 'Empire of Debt',
   },
 
+  {
+    id: 'v2854',
+    title: 'I found the treasure cave in the cliff while I was digging for crystals.',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'HdHyTHL-Ho8',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Crystal 777',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
