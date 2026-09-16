@@ -29076,6 +29076,20 @@ const VIDEOS = [
     source: 'National Geographic',
   },
 
+  {
+    id: 'v2846',
+    title: 'The Most Dangerous Black Market You\'ve Never Heard Of',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'eyCq_Isr9O4',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['mercado'],
+    rating: 4.5,
+    source: 'VICE News',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
