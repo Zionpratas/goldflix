@@ -29090,6 +29090,20 @@ const VIDEOS = [
     source: 'VICE News',
   },
 
+  {
+    id: 'v2847',
+    title: 'Ideia Pulseira Brasil na Copa América 💚💛 Tutorial-Do it yourself',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'KLztnHsPQnk',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Grace Oliveira - Artes e Acessórios',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
