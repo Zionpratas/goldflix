@@ -29062,6 +29062,20 @@ const VIDEOS = [
     source: 'Rvssampaioteamtv',
   },
 
+  {
+    id: 'v2845',
+    title: 'The Truth About King Tut\'s Golden Mask (Full Episode) | Tut\'s Treasures: Hidden Secrets | Nat Geo',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'UmL4uPn6xe0',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'National Geographic',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
