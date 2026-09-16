@@ -29146,6 +29146,20 @@ const VIDEOS = [
     source: 'Matt\'s Corner of Gem Cutting',
   },
 
+  {
+    id: 'v2851',
+    title: 'MEGAOPERAÇÃO interrompe o avanço da mineração clandestina na Amazônia | Operação Guerra Verde',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'VyTO-cKTfxA',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['mineracao'],
+    rating: 4.5,
+    source: 'Discovery Brasil',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
