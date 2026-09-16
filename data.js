@@ -29230,6 +29230,20 @@ const VIDEOS = [
     source: 'Rolê Família',
   },
 
+  {
+    id: 'v2857',
+    title: 'Agentes desmontam garimpo ilegal e prejuizo foi de quase R$ 10 milhões | Operação Guerra Verde',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '_IakVJPQd38',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['mineracao'],
+    rating: 4.5,
+    source: 'Discovery Brasil',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
