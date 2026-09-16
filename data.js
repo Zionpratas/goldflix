@@ -29132,6 +29132,20 @@ const VIDEOS = [
     source: 'Galileo 3.14',
   },
 
+  {
+    id: 'v2850',
+    title: 'Gemstone Faceting, Progression of Cutting a Sapphire',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'KpZ4VQ9cExw',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['gemologia'],
+    rating: 4.5,
+    source: 'Matt\'s Corner of Gem Cutting',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
