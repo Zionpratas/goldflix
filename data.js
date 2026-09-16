@@ -29216,6 +29216,20 @@ const VIDEOS = [
     source: 'International Gemological Institute - IGI',
   },
 
+  {
+    id: 'v2856',
+    title: 'Chapada Diamantina, Além dos Lugares Mais Famosos (Documentário)',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'kGx-lCffBXQ',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Rolê Família',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
