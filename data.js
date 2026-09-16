@@ -29202,6 +29202,20 @@ const VIDEOS = [
     source: 'Crystal 777',
   },
 
+  {
+    id: 'v2855',
+    title: 'IGI explains Lab Grown Diamonds',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'fK-XWvVEISE',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['diamantes', 'gemologia'],
+    rating: 4.5,
+    source: 'International Gemological Institute - IGI',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
