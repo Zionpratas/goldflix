@@ -29160,6 +29160,34 @@ const VIDEOS = [
     source: 'Discovery Brasil',
   },
 
+  {
+    id: 'v2852',
+    title: 'Kimchi - The Most Profitable Meme Coin Trader | Documentary',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '8Dl-JO3tJqg',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Findicate',
+  },
+
+  {
+    id: 'v2853',
+    title: 'Why the US Dollar Left Gold in 1971 It Wasn\'t Nixon',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'ORqFsnFgwm0',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Empire of Debt',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
