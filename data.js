@@ -29104,6 +29104,20 @@ const VIDEOS = [
     source: 'Grace Oliveira - Artes e Acessórios',
   },
 
+  {
+    id: 'v2848',
+    title: 'Diamond Platnumz - Natulizana (Official Music Video)',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'BoMELShy1_o',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['diamantes'],
+    rating: 4.5,
+    source: 'Diamond Platnumz',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
