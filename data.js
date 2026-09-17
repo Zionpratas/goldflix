@@ -29328,6 +29328,20 @@ const VIDEOS = [
     source: 'Pawn Stars',
   },
 
+  {
+    id: 'v2864',
+    title: 'BVLGARI MAGNIFICA HIGH JEWELRY COLLECTION - TEASER 1',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'Rb2zAlTmXFM',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['joalheria'],
+    rating: 4.5,
+    source: 'Bvlgari',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
