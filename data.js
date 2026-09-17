@@ -29440,6 +29440,20 @@ const VIDEOS = [
     source: 'Fault Finder',
   },
 
+  {
+    id: 'v2872',
+    title: '🎬 Gold (1974) Full Movie 🎥 Classic adventure thriller starring Roger Moore',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'kczQdl5T2xg',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'PUMPDISH Movies',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
