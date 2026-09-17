@@ -29454,6 +29454,20 @@ const VIDEOS = [
     source: 'PUMPDISH Movies',
   },
 
+  {
+    id: 'v2873',
+    title: 'I Found a Crack in the Ground…It Led to a World Lost for 100 Years',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '7AuFrjULZSU',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Ghost Town Living',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
