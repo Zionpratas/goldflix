@@ -29286,6 +29286,20 @@ const VIDEOS = [
     source: 'Gemfields',
   },
 
+  {
+    id: 'v2861',
+    title: '"Start Investing In Gold ASAP..." - Ted Oakley',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '8l2JRF2glUk',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro', 'mercado'],
+    rating: 4.5,
+    source: 'LifeWorthLiving',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
