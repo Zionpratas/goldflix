@@ -29468,6 +29468,20 @@ const VIDEOS = [
     source: 'Ghost Town Living',
   },
 
+  {
+    id: 'v2874',
+    title: 'Gold to $15,000: The Breakout Has Already Started? | Gareth Soloway',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'D58qT8m105s',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'The David Lin Report Clips',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
