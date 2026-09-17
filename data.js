@@ -29412,6 +29412,20 @@ const VIDEOS = [
     source: 'Discovery',
   },
 
+  {
+    id: 'v2870',
+    title: 'The Return Of The  Last King — His Brother Stole The Crown | AGE OF KINGDOMS | Full Movie 4K 2026',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'l-k5bZK1kS0',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['luxo', 'historia'],
+    rating: 4.5,
+    source: 'Epic AI Films',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
