@@ -29566,6 +29566,20 @@ const VIDEOS = [
     source: 'Diamond Platnumz',
   },
 
+  {
+    id: 'v2881',
+    title: 'Gold Full Movie In Hindi | Akshay Kumar | Mouni Roy | Sunny Kaushal | Amit Sadh | Review & Fact',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '9_26avjNK5E',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'SH MEDIA',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
