@@ -29384,6 +29384,20 @@ const VIDEOS = [
     source: 'One Fashion Question ',
   },
 
+  {
+    id: 'v2868',
+    title: 'Alta Joalheria: O Desafio de Criar Obras de Arte em Grande Escala',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '-Jt9UdB42Ns',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['joalheria'],
+    rating: 4.5,
+    source: 'Pedro Yossef | Joias Autorais e Exclusivas',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
