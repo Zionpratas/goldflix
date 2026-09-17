@@ -29272,6 +29272,20 @@ const VIDEOS = [
     source: 'The Works',
   },
 
+  {
+    id: 'v2860',
+    title: 'Gemfields: Paul Allan Interview',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '_jZzn1oKups',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['gemologia'],
+    rating: 4.5,
+    source: 'Gemfields',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
