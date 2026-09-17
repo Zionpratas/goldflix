@@ -29244,6 +29244,20 @@ const VIDEOS = [
     source: 'Discovery Brasil',
   },
 
+  {
+    id: 'v2858',
+    title: 'how to make jewelry out of wax - making engagement ring from wax',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'TXHFj0u5KsQ',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['joalheria', 'gemologia'],
+    rating: 4.5,
+    source: 'Anif G',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
