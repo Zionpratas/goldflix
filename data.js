@@ -29300,6 +29300,34 @@ const VIDEOS = [
     source: 'LifeWorthLiving',
   },
 
+  {
+    id: 'v2862',
+    title: 'The Pursuit Of Purple Gold Jewelry-Director\'s Cut',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'F2m_4PTqpk4',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['joalheria', 'ouro'],
+    rating: 4.5,
+    source: 'The Kraftwerks Invitational',
+  },
+
+  {
+    id: 'v2863',
+    title: 'Top 4 Ancient Egyptian Deals | Compilation | Pawn Stars',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'ErdNlqXZrZo',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['historia'],
+    rating: 4.5,
+    source: 'Pawn Stars',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
