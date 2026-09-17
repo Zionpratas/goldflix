@@ -29482,6 +29482,20 @@ const VIDEOS = [
     source: 'The David Lin Report Clips',
   },
 
+  {
+    id: 'v2875',
+    title: 'Diamond Platnumz Ft Fally Ipupa - Inama (Official Video)',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'x96N7f62GE4',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['diamantes'],
+    rating: 4.5,
+    source: 'Diamond Platnumz',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
