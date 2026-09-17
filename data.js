@@ -29552,6 +29552,20 @@ const VIDEOS = [
     source: 'Vance Frames',
   },
 
+  {
+    id: 'v2880',
+    title: 'Tanasha X Diamond Platnumz - Gere (Official Music Video) SMS SKIZA 8548744 to 811',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'z9b4_2lBhrE',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['diamantes'],
+    rating: 4.5,
+    source: 'Diamond Platnumz',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
