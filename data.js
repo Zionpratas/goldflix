@@ -29356,6 +29356,34 @@ const VIDEOS = [
     source: 'TraxNYC Diamond Jewelry',
   },
 
+  {
+    id: 'v2866',
+    title: 'BVLGARI. Безумная история, о которой молчат',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'ZN-re0aBdPU',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Модный подкаст',
+  },
+
+  {
+    id: 'v2867',
+    title: 'Elizabeth Taylor & Bulgari: The Jewelry That Became a Love Story',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'gTMpl3m-1j4',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['joalheria', 'luxo'],
+    rating: 4.5,
+    source: 'One Fashion Question ',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
