@@ -29524,6 +29524,34 @@ const VIDEOS = [
     source: 'Jardes',
   },
 
+  {
+    id: 'v2878',
+    title: 'Border Patrol\'s Biggest Smuggling Busts | To Catch a Smuggler MEGA Episode',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'TlbbAdGQTig',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'National Geographic',
+  },
+
+  {
+    id: 'v2879',
+    title: 'The British INFLUENCERS Who SMUGGLED £100 Million to DUBAI | UK True CRIME Documentary',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'B8r73lqkw6U',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Vance Frames',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
