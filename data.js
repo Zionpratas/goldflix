@@ -29580,6 +29580,20 @@ const VIDEOS = [
     source: 'SH MEDIA',
   },
 
+  {
+    id: 'v2882',
+    title: 'J.P. Morgan Documentary: How One Man Financed America',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '5jjdErDkDZE',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Business Casual',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
