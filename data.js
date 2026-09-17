@@ -29496,6 +29496,20 @@ const VIDEOS = [
     source: 'Diamond Platnumz',
   },
 
+  {
+    id: 'v2876',
+    title: 'EARNING THE CROWN: The Sacred Jewels Elizabeth II Kept ONLY for Kate',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '6qr3_GUBlb8',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['joalheria', 'luxo', 'historia'],
+    rating: 4.5,
+    source: 'Jewellery Stories ',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
