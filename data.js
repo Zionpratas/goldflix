@@ -29426,6 +29426,20 @@ const VIDEOS = [
     source: 'Epic AI Films',
   },
 
+  {
+    id: 'v2871',
+    title: 'Mining Economics Explained: The Value and Cost Behind Everyday Metals',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'ZfrKcqLkYVc',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['mineracao'],
+    rating: 4.5,
+    source: 'Fault Finder',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
