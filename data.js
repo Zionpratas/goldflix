@@ -29510,6 +29510,20 @@ const VIDEOS = [
     source: 'Jewellery Stories ',
   },
 
+  {
+    id: 'v2877',
+    title: 'LEGIÃO URBANA COMO SE DIZ EU TE AMO Documentário Apresentado por Dinho Ouro Preto (COMPLETO)',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'NMcxTyUiqew',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Jardes',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
