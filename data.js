@@ -29398,6 +29398,20 @@ const VIDEOS = [
     source: 'Pedro Yossef | Joias Autorais e Exclusivas',
   },
 
+  {
+    id: 'v2869',
+    title: 'The Legend of the Namunyak | Game of Stones',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'WiKCdjU3PkI',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Discovery',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
