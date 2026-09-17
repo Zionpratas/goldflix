@@ -29258,6 +29258,20 @@ const VIDEOS = [
     source: 'Anif G',
   },
 
+  {
+    id: 'v2859',
+    title: 'How Pearl Farms Grow Gems Inside Living Oysters',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'upcUvxayv2g',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['gemologia'],
+    rating: 4.5,
+    source: 'The Works',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
