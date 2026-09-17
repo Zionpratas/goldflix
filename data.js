@@ -29342,6 +29342,20 @@ const VIDEOS = [
     source: 'Bvlgari',
   },
 
+  {
+    id: 'v2865',
+    title: 'HOW IT’S MADE: Custom Gold Chain | The District S2 Ep9',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'bJXaCCxiUUY',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['joalheria', 'diamantes', 'ouro'],
+    rating: 4.5,
+    source: 'TraxNYC Diamond Jewelry',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
