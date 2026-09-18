@@ -29776,6 +29776,34 @@ const VIDEOS = [
     source: 'Mineral Explorers',
   },
 
+  {
+    id: 'v2896',
+    title: 'Inside the 24K Gold Factory: How Mining Ore Is Refined Into Gold Bars (Full Process)',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '7O9caNBgSd4',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro', 'mineracao'],
+    rating: 4.5,
+    source: 'Innovation Beat',
+  },
+
+  {
+    id: 'v2897',
+    title: 'Turning a BLOB into PURE GOLD!',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'eg1X6SKfTQo',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Modern Goldsmith',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
