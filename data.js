@@ -29664,6 +29664,62 @@ const VIDEOS = [
     source: 'maneco64',
   },
 
+  {
+    id: 'v2888',
+    title: 'PRF encontra encomenda IMPOSSÍVEL de desconfiar | Operação Fronteira Brasil | Discovery Brasil',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'PramHj8fc_A',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Discovery Brasil',
+  },
+
+  {
+    id: 'v2889',
+    title: 'O CRIME NÃO COMPENSA! 26 toneladas escondidas e a reação surpreendente da PRF| Operação Fronteira BR',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'cDg96CVF5FM',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Discovery Brasil',
+  },
+
+  {
+    id: 'v2890',
+    title: 'Motorista foi preso pela PRF no meio da viagem | Episódio Completo | Operação Fronteira Brasil',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'qfu37I2Mejs',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['gemologia'],
+    rating: 4.5,
+    source: 'Discovery Brasil',
+  },
+
+  {
+    id: 'v2891',
+    title: 'Doc Investigação: Polícia evita um dos maiores assaltos da história do Brasil',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'Kz35QYHz9Hw',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['mercado'],
+    rating: 4.5,
+    source: 'RECORD EUROPA',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
