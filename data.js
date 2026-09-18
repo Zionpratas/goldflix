@@ -29622,6 +29622,34 @@ const VIDEOS = [
     source: 'Filmes para Assistir',
   },
 
+  {
+    id: 'v2885',
+    title: 'Denarius Metals Mission Statement',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'LF-Ykm56mDk',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Denarius Metals',
+  },
+
+  {
+    id: 'v2886',
+    title: 'Life After People 2008   S01E04   Heavy Metal 1080p BluRay x265 Silence',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'gxUS3eVh5jM',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: '4K Digital Archive',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
