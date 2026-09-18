@@ -29608,6 +29608,20 @@ const VIDEOS = [
     source: 'HISTORY',
   },
 
+  {
+    id: 'v2884',
+    title: 'Trilha em Fúria FILME COMPLETO DUBLADO | Filmes de Faroeste | Lou Diamond Phillips Filmes p Assistir',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'l34n7znwQ0A',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['diamantes'],
+    rating: 4.5,
+    source: 'Filmes para Assistir',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
