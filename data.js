@@ -29734,6 +29734,20 @@ const VIDEOS = [
     source: 'JesseDaly',
   },
 
+  {
+    id: 'v2893',
+    title: 'Kerry King X King Diamond - Back & Forth',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '8O3zMpsgl9k',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['diamantes'],
+    rating: 4.5,
+    source: 'Noisey',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
