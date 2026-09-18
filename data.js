@@ -29650,6 +29650,20 @@ const VIDEOS = [
     source: '4K Digital Archive',
   },
 
+  {
+    id: 'v2887',
+    title: 'China Is Dumping U.S. Treasuries for Gold — Here’s Why.',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'cFkGPApBjlM',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'maneco64',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
