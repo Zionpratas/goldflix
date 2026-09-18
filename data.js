@@ -29748,6 +29748,34 @@ const VIDEOS = [
     source: 'Noisey',
   },
 
+  {
+    id: 'v2894',
+    title: 'DWS JEWELRY MOVIE',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'T4NwFXWG3Sc',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['joalheria'],
+    rating: 4.5,
+    source: 'VISUAL Graphic Design',
+  },
+
+  {
+    id: 'v2895',
+    title: 'MINERAL EXPLORERS | S1 | Ep1 | BOLIVIA',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '-Pq0g2zi2z0',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['mineracao'],
+    rating: 4.5,
+    source: 'Mineral Explorers',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
