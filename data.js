@@ -29720,6 +29720,20 @@ const VIDEOS = [
     source: 'RECORD EUROPA',
   },
 
+  {
+    id: 'v2892',
+    title: 'Tiffany on The View',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '5HMiQDXBe4o',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['luxo'],
+    rating: 4.5,
+    source: 'JesseDaly',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
