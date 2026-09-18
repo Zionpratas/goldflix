@@ -29594,6 +29594,20 @@ const VIDEOS = [
     source: 'Business Casual',
   },
 
+  {
+    id: 'v2883',
+    title: 'Advanced Tools That History Forgot | Ancient Impossible (S1, E6) | Full Episode',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'b_TITvlRgqQ',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['historia'],
+    rating: 4.5,
+    source: 'HISTORY',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
