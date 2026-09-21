@@ -29804,6 +29804,20 @@ const VIDEOS = [
     source: 'Modern Goldsmith',
   },
 
+  {
+    id: 'v2898',
+    title: 'Black Diamond Presents: The Founder',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'JDzyO2dMwBI',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['diamantes'],
+    rating: 4.5,
+    source: 'Black Diamond Equipment',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
