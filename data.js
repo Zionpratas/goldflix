@@ -29860,6 +29860,20 @@ const VIDEOS = [
     source: 'Ann',
   },
 
+  {
+    id: 'v2902',
+    title: 'The Jewels of Mrs. Paul Mellon',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '3apbt-4YTBk',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['luxo', 'joalheria'],
+    rating: 4.5,
+    source: 'Sotheby\'s',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
