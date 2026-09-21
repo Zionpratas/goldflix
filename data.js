@@ -29846,6 +29846,20 @@ const VIDEOS = [
     source: 'Yahoo Finance',
   },
 
+  {
+    id: 'v2901',
+    title: 'GROUND ZERO NORTH CAROLINA: Fighting Globalism to Restore the Republic (copy)',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'DbC48cx6OeY',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Ann',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
