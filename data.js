@@ -29832,6 +29832,20 @@ const VIDEOS = [
     source: 'Formula of the Ancients',
   },
 
+  {
+    id: 'v2900',
+    title: 'Inside the gold vault at the New York Federal Reserve',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'gIbAidVsin4',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Yahoo Finance',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
