@@ -29818,6 +29818,20 @@ const VIDEOS = [
     source: 'Black Diamond Equipment',
   },
 
+  {
+    id: 'v2899',
+    title: 'In Colombia, THEY FOUND WHAT IS FORBIDDEN TO BE SEEN',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '7KkWW7_Ux-E',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['historia'],
+    rating: 4.5,
+    source: 'Formula of the Ancients',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
