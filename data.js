@@ -29916,6 +29916,34 @@ const VIDEOS = [
     source: 'Greenstone Europe',
   },
 
+  {
+    id: 'v2906',
+    title: 'The Wild West: How Outlaws, Cowboys and Gold Made an American Legend',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'm7UOBop_34s',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Snooze Historian',
+  },
+
+  {
+    id: 'v2907',
+    title: 'The Rise and Fall of America’s Wildest Boomtown: Deadwood Documentary',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '8ZFrG2tz3X4',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Gilded Metropolis',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
