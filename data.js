@@ -29902,6 +29902,20 @@ const VIDEOS = [
     source: 'AntiqueTreasureHunt',
   },
 
+  {
+    id: 'v2905',
+    title: 'The Largest Single Silver Discovery Ever Made in the United Kingdom',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'hj_2gWNkRQ4',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['prata'],
+    rating: 4.5,
+    source: 'Greenstone Europe',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
