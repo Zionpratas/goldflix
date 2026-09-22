@@ -29944,6 +29944,20 @@ const VIDEOS = [
     source: 'Gilded Metropolis',
   },
 
+  {
+    id: 'v2908',
+    title: 'Illegal gold mines in the Philippines  DW Documentary',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'qNtsQO9iCsc',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['mineracao', 'ouro'],
+    rating: 4.5,
+    source: 'FAIR LIFE FOR MINERS TO END POVERTY',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
