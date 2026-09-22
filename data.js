@@ -29958,6 +29958,20 @@ const VIDEOS = [
     source: 'FAIR LIFE FOR MINERS TO END POVERTY',
   },
 
+  {
+    id: 'v2909',
+    title: 'The Last Diamond Cutters of New York City',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'x4hiqg1VYLk',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['diamantes'],
+    rating: 4.5,
+    source: 'The New Yorker',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
