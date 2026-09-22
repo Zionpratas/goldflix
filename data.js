@@ -29888,6 +29888,20 @@ const VIDEOS = [
     source: 'David Gilbert | Professional Voice Over Talent',
   },
 
+  {
+    id: 'v2904',
+    title: 'The Most Expensive Cartier Piece Ever Seen on Antiques Roadshow',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'j3w6zTshMUg',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['luxo'],
+    rating: 4.5,
+    source: 'AntiqueTreasureHunt',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
