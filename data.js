@@ -29972,6 +29972,20 @@ const VIDEOS = [
     source: 'The New Yorker',
   },
 
+  {
+    id: 'v2910',
+    title: 'How Silver Chains Are Made - Making Jewelry',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'GVgdiXcYcPg',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['prata', 'joalheria'],
+    rating: 4.5,
+    source: 'The Craftsman',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
