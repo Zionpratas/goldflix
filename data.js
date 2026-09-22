@@ -29874,6 +29874,20 @@ const VIDEOS = [
     source: 'Sotheby\'s',
   },
 
+  {
+    id: 'v2903',
+    title: 'Abitibi Metals - Corporate Video - By STARK CREATIVE',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'Kd7bS6ueTU4',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'David Gilbert | Professional Voice Over Talent',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
