@@ -30056,6 +30056,20 @@ const VIDEOS = [
     source: 'Bvlgari',
   },
 
+  {
+    id: 'v2916',
+    title: 'Parker’s Four Wash Plants Pull $2.3M In ONE Week | Gold Rush',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'TM8aedvgoXs',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Aussie Gold & Opal Hunters+',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
