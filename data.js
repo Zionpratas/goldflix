@@ -30070,6 +30070,20 @@ const VIDEOS = [
     source: 'Aussie Gold & Opal Hunters+',
   },
 
+  {
+    id: 'v2917',
+    title: 'GSMT - Robert Baines: Art Jeweler and Goldsmith - Artisan Lecture Series',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'kXeKy8GScaY',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro', 'joalheria'],
+    rating: 4.5,
+    source: 'The General Society of Mechanics and Tradesmen',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
