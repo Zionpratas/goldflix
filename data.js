@@ -30000,6 +30000,20 @@ const VIDEOS = [
     source: 'BULLRUNNERS',
   },
 
+  {
+    id: 'v2912',
+    title: 'Are Lab-Grown Diamonds More Ethical Than Natural Diamonds?',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '0SjU4-CClyU',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['diamantes'],
+    rating: 4.5,
+    source: 'Only Natural Diamonds',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
