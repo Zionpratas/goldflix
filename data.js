@@ -30042,6 +30042,20 @@ const VIDEOS = [
     source: 'Bloomberg Television',
   },
 
+  {
+    id: 'v2915',
+    title: 'Bulgari Unexpected Wonders: Behind The Scenes',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '_aRvJM7tEjs',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['luxo'],
+    rating: 4.5,
+    source: 'Bvlgari',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
