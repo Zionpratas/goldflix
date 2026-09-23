@@ -30112,6 +30112,20 @@ const VIDEOS = [
     source: 'The Manufacturing Lens',
   },
 
+  {
+    id: 'v2920',
+    title: 'IN THE SHADOW OF GOLD MOUNTAIN | Full Documentary | National Film Board of Canada',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'TOsgNu02WkA',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'NFB',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
