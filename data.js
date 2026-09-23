@@ -30028,6 +30028,20 @@ const VIDEOS = [
     source: 'History Meets Finance',
   },
 
+  {
+    id: 'v2914',
+    title: 'Bloomberg Business News Live',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'QB5BNdBFujE',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Bloomberg Television',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
