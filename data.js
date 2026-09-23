@@ -30084,6 +30084,20 @@ const VIDEOS = [
     source: 'The General Society of Mechanics and Tradesmen',
   },
 
+  {
+    id: 'v2918',
+    title: 'Jamie Dimon’s Gold & Silver Warning: What He Really Said About What’s Coming',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '9XYG9uHXpKY',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro', 'prata'],
+    rating: 4.5,
+    source: 'Gold & Silver Insights',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
