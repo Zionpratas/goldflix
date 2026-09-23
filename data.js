@@ -30014,6 +30014,20 @@ const VIDEOS = [
     source: 'Only Natural Diamonds',
   },
 
+  {
+    id: 'v2913',
+    title: 'How Fugger Turned A Silver Mine Into $400 Billion',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'OymY8abr0Ag',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['mineracao', 'prata', 'historia'],
+    rating: 4.5,
+    source: 'History Meets Finance',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
