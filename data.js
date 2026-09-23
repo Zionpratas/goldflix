@@ -30098,6 +30098,20 @@ const VIDEOS = [
     source: 'Gold & Silver Insights',
   },
 
+  {
+    id: 'v2919',
+    title: 'Inside a Lab-Grown Diamonds Factory – (Full Process) How Diamonds Are Made',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'z_hC7O-7F8M',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['diamantes'],
+    rating: 4.5,
+    source: 'The Manufacturing Lens',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
