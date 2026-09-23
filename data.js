@@ -29986,6 +29986,20 @@ const VIDEOS = [
     source: 'The Craftsman',
   },
 
+  {
+    id: 'v2911',
+    title: 'PHYSICAL GOLD: THE FUND\'S OWN PROSPECTUS SAYS IT DOES NOT INSURE THE GOLD…',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'l9nA6NOtmqg',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'BULLRUNNERS',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
