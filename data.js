@@ -30294,6 +30294,20 @@ const VIDEOS = [
     source: 'HISTORY',
   },
 
+  {
+    id: 'v2933',
+    title: 'What Is The Most Expensive Metal On Earth? | QI',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'TecXEJ1wvGM',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'QI',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
