@@ -30238,6 +30238,20 @@ const VIDEOS = [
     source: 'Модный подкаст',
   },
 
+  {
+    id: 'v2929',
+    title: 'Gold: Scientific Process of Extraction & Purification, From Mines to Jewellery! #Gold #facts #gk #yt',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'uJauG26mbEA',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['mineracao', 'joalheria', 'ouro'],
+    rating: 4.5,
+    source: 'DLSKNOWLEDGE ',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
