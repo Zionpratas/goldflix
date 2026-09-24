@@ -30308,6 +30308,34 @@ const VIDEOS = [
     source: 'QI',
   },
 
+  {
+    id: 'v2934',
+    title: 'Inside the UK\'s New Diamond Wars - Rule Britannia',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'JzJ2VX3_v48',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['diamantes'],
+    rating: 4.5,
+    source: 'VICE',
+  },
+
+  {
+    id: 'v2935',
+    title: 'Lufthansa Aviation Training (EFA) Diamond DA42 ULTIMATE COCKPIT MOVIE [AirClips full flight series]',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'JmsBzEMQ7eQ',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['diamantes'],
+    rating: 4.5,
+    source: 'Air-Clips.com',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
