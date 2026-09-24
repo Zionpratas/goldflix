@@ -30140,6 +30140,20 @@ const VIDEOS = [
     source: 'Stash Movies & TV',
   },
 
+  {
+    id: 'v2922',
+    title: 'BIGGEST DEALS OF SEASON 13! | Pawn Stars',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'Et0ffkSmY-0',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Pawn Stars',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
