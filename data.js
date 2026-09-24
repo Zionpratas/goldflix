@@ -30126,6 +30126,20 @@ const VIDEOS = [
     source: 'NFB',
   },
 
+  {
+    id: 'v2921',
+    title: 'Silverton Gold | History Documentary | Full Movie | Silverton, Colorado',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'iNNTaz-IP_w',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['prata', 'historia', 'ouro'],
+    rating: 4.5,
+    source: 'Stash Movies & TV',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
