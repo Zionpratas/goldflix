@@ -30154,6 +30154,62 @@ const VIDEOS = [
     source: 'Pawn Stars',
   },
 
+  {
+    id: 'v2923',
+    title: 'Making of Minimal - Joalheria Artesanal por Cosmic Co.',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '3pvCu5FAg1o',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Cosmic & Co.',
+  },
+
+  {
+    id: 'v2924',
+    title: 'Curso de Joalheria - Técnicas Básicas',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'YKhHjHXZyyI',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Officina da Memória',
+  },
+
+  {
+    id: 'v2925',
+    title: 'Como é feito uma joia artesanal de latão? - Making of Box Folhas',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'fmusIEKZrR4',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['joalheria'],
+    rating: 4.5,
+    source: 'Clube dos Joalheiros',
+  },
+
+  {
+    id: 'v2926',
+    title: 'Pedras Preciosas do Brasil  - Turmalinas Brasileiras',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'bfm-8apNWy4',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['gemologia'],
+    rating: 4.5,
+    source: 'Gemologiabrasil',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
