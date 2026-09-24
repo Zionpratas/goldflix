@@ -30266,6 +30266,20 @@ const VIDEOS = [
     source: 'Platinum Pulse',
   },
 
+  {
+    id: 'v2931',
+    title: 'Somaliland Gemstones Documentary 2026',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'o2sRwpouqGw',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['gemologia'],
+    rating: 4.5,
+    source: 'DYGemstones',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
