@@ -30224,6 +30224,20 @@ const VIDEOS = [
     source: 'EGS PRO',
   },
 
+  {
+    id: 'v2928',
+    title: 'Cartier. История семьи, которая потеряла всё',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'qV_tfNVQ1y8',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['luxo'],
+    rating: 4.5,
+    source: 'Модный подкаст',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
