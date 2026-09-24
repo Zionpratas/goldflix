@@ -30252,6 +30252,20 @@ const VIDEOS = [
     source: 'DLSKNOWLEDGE ',
   },
 
+  {
+    id: 'v2930',
+    title: 'Jamaica Finds Rare Earth Elements Worth 400 Billion USD',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'gGwAExa6Dk4',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['prata'],
+    rating: 4.5,
+    source: 'Platinum Pulse',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
