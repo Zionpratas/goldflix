@@ -30280,6 +30280,20 @@ const VIDEOS = [
     source: 'DYGemstones',
   },
 
+  {
+    id: 'v2932',
+    title: 'Beyond Area 51 | Ancient Aliens',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'daKi33dnA_0',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['historia'],
+    rating: 4.5,
+    source: 'HISTORY',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
