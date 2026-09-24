@@ -30210,6 +30210,20 @@ const VIDEOS = [
     source: 'Gemologiabrasil',
   },
 
+  {
+    id: 'v2927',
+    title: 'Earth Tried to Bury Platinum Forever — This Is What Stopped It',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'mZWt2PKwgE0',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['prata'],
+    rating: 4.5,
+    source: 'EGS PRO',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
