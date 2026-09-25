@@ -30378,6 +30378,20 @@ const VIDEOS = [
     source: 'GIGS',
   },
 
+  {
+    id: 'v2939',
+    title: 'Oceanview Mine Pala California - Aquamarine, Quartz Crystals, & Tourmaline digging + mine tour',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'kXITe-JxUzw',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['gemologia', 'mineracao'],
+    rating: 4.5,
+    source: 'Lapidary Dave',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
