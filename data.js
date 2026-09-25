@@ -30420,6 +30420,20 @@ const VIDEOS = [
     source: 'Films 4 Canada',
   },
 
+  {
+    id: 'v2942',
+    title: 'Exclusive: The brutal reality of Congo\'s gold mining industry | DW News',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'Bvi1RAKF0sI',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['mineracao', 'ouro'],
+    rating: 4.5,
+    source: 'DW News',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
