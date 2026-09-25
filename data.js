@@ -30392,6 +30392,34 @@ const VIDEOS = [
     source: 'Lapidary Dave',
   },
 
+  {
+    id: 'v2940',
+    title: 'For the Love of Nancy | Full Movie | Tracey Gold | Jill Clayburgh | William Devane',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'tamDeM-tdH4',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Films 4 You',
+  },
+
+  {
+    id: 'v2941',
+    title: 'She\'s No Angel | Full Thriller Movie | Tracey Gold | Kevin Dobson | Dee Wallace | Cameron Bancroft',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'N-7A_Sw-TUo',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Films 4 Canada',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
