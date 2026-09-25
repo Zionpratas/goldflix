@@ -30434,6 +30434,20 @@ const VIDEOS = [
     source: 'DW News',
   },
 
+  {
+    id: 'v2943',
+    title: 'Canada Just Built a Rare Earth Factory That Could End China\'s Grip Forever',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'orgEWgmNsx4',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Harris Senior Health Tips',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
