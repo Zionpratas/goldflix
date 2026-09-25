@@ -30448,6 +30448,76 @@ const VIDEOS = [
     source: 'Harris Senior Health Tips',
   },
 
+  {
+    id: 'v2944',
+    title: 'SIR HEROD (part 3) - Lizzy Gold Alex Usifo Sochi Infiniti Nigerian Movies 2026 Latest Movies',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '_jAB-bzXbRA',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'NollywoodFlavour tv',
+  },
+
+  {
+    id: 'v2945',
+    title: 'SIR HEROD (full movie) - Lizzy Gold Alex Usifo Sochi Infiniti Nigerian Movies 2026 Latest Movies',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'zMm-qvDBBi8',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'NollywoodFlavour tv',
+  },
+
+  {
+    id: 'v2946',
+    title: 'MY STAR - YUL EDOCHIE, LIZZY GOLD ONUWAJE - Latest Nollywood Movie',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'E8XxFBiAMDo',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Yul Edochie TV',
+  },
+
+  {
+    id: 'v2947',
+    title: 'SIR HEROD - Lizzy Gold Alex Usifo Sochi Infiniti Nigerian Movies 2026 Latest Movies',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'GKsqX068e3E',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'NollywoodFlavour tv',
+  },
+
+  {
+    id: 'v2948',
+    title: 'ALL THINGS EQUAL - SARIAN MARTIN, DANIEL ETIM, Latest 2026 Nigerian Full Movie',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'hyTwvk_Q7Pc',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Sarian Martin Tv',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
