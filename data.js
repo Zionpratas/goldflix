@@ -30364,6 +30364,20 @@ const VIDEOS = [
     source: 'Nolly MovieRoom',
   },
 
+  {
+    id: 'v2938',
+    title: 'Duran Duran - Ordinary World Live (A Diamond In The Mind)',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'URGORB-B5Z4',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['diamantes'],
+    rating: 4.5,
+    source: 'GIGS',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
