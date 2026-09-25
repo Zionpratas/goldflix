@@ -30336,6 +30336,34 @@ const VIDEOS = [
     source: 'Air-Clips.com',
   },
 
+  {
+    id: 'v2936',
+    title: 'Inside the Chilean Mine Rescue (Full Episode) | Witness to Disaster | National Geographic',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '8oqlbj5QAn4',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['mineracao'],
+    rating: 4.5,
+    source: 'National Geographic',
+  },
+
+  {
+    id: 'v2937',
+    title: '40 DAYS BURIAL 2 - YUL EDOCHIE, LIZZYGOLD ONUWAJE , JANE OBI | latest movie 2026',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'RMC3bEZ2MJk',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Nolly MovieRoom',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
