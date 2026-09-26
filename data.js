@@ -30560,6 +30560,20 @@ const VIDEOS = [
     source: 'National Geographic',
   },
 
+  {
+    id: 'v2952',
+    title: 'Exclusive Tour Inside Australia\'s Largest Gold Mint!',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'tRUp_7UO_JA',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Bullion Now',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
