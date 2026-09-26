@@ -30588,6 +30588,20 @@ const VIDEOS = [
     source: 'Karma ai films',
   },
 
+  {
+    id: 'v2954',
+    title: 'How the EU Turned 6,000 African Smugglers Into Gold Miners | Sahara | Full Documentary',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'JHhUxh4p-Wk',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['mineracao', 'ouro'],
+    rating: 4.5,
+    source: 'BingeWorthy Documentaries',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
