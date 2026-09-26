@@ -30532,6 +30532,20 @@ const VIDEOS = [
     source: 'Open Planet',
   },
 
+  {
+    id: 'v2950',
+    title: 'More and More Amethyst Seam, Fiery Plume Agate!',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'qjdQ5erzao8',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'The Rugged Rockhound',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
