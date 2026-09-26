@@ -30602,6 +30602,34 @@ const VIDEOS = [
     source: 'BingeWorthy Documentaries',
   },
 
+  {
+    id: 'v2955',
+    title: 'A TRAGÉDIA DE ORÓS no CEARÁ: a barragem rompeu sobre sete cidades | Documentário Completo',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'ZpsxLW7BncY',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['gemologia'],
+    rating: 4.5,
+    source: 'O.Documentário',
+  },
+
+  {
+    id: 'v2956',
+    title: 'De Nibiru à Terra — A Origem dos Anunnaki | Documentário Completo"',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '03JdQTp91Eo',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['gemologia'],
+    rating: 4.5,
+    source: 'Vestígios Antigos',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
