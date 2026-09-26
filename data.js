@@ -30546,6 +30546,20 @@ const VIDEOS = [
     source: 'The Rugged Rockhound',
   },
 
+  {
+    id: 'v2951',
+    title: 'Going Undercover With the Mob ( Full Episode) | Inside the American Mob Compilation',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'xTnTzb-h73U',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'National Geographic',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
