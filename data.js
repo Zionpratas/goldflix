@@ -30630,6 +30630,20 @@ const VIDEOS = [
     source: 'Vestígios Antigos',
   },
 
+  {
+    id: 'v2957',
+    title: 'Uncovering the History of the American West | Drain the Oceans MEGA Episode | National Geographic',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'O-WDn8qtfKQ',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['historia'],
+    rating: 4.5,
+    source: 'National Geographic',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
