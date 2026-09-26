@@ -30518,6 +30518,20 @@ const VIDEOS = [
     source: 'Sarian Martin Tv',
   },
 
+  {
+    id: 'v2949',
+    title: 'How to Live on Earth | Feature Documentary | Presented by Benedict Cumberbatch',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'h3mRsvFmWi0',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Open Planet',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
