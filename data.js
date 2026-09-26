@@ -30574,6 +30574,20 @@ const VIDEOS = [
     source: 'Bullion Now',
   },
 
+  {
+    id: 'v2953',
+    title: 'Sinbad and the City of Diamonds — The Cyclops and the Serpent Valley | Full Fantasy Movie 4K',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'rj_GzLRTbL0',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['diamantes'],
+    rating: 4.5,
+    source: 'Karma ai films',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
