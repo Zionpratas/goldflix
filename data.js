@@ -30658,6 +30658,20 @@ const VIDEOS = [
     source: 'Mindvalley Talks',
   },
 
+  {
+    id: 'v2959',
+    title: 'Pablo Escobar: O Senhor Do Tráfico: Documentário (Dublado) Full HD',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'mb8Nx2uLqK0',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Filmes Interessantes 1',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
