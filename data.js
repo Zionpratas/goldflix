@@ -30714,6 +30714,20 @@ const VIDEOS = [
     source: 'Gold Tips',
   },
 
+  {
+    id: 'v2963',
+    title: 'Como o Vale do Silício Cria BILIONÁRIOS (e porque o Brasil NÃO CONSEGUE)',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'kkdzytCtFns',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Breno Perrucho - Jovens de Negócios',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
