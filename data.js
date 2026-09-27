@@ -30672,6 +30672,20 @@ const VIDEOS = [
     source: 'Filmes Interessantes 1',
   },
 
+  {
+    id: 'v2960',
+    title: 'David Morgan: Gold - The Monetary Hitching Post of the Universe',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '-9r150RBsHI',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Palisades Gold Radio',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
