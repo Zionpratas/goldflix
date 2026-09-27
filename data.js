@@ -30644,6 +30644,20 @@ const VIDEOS = [
     source: 'National Geographic',
   },
 
+  {
+    id: 'v2958',
+    title: 'Use Feng Shui To Become Abundant Today | Marie Diamond',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'GW0cMaC3Fp0',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['diamantes'],
+    rating: 4.5,
+    source: 'Mindvalley Talks',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
