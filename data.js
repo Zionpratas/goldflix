@@ -30686,6 +30686,20 @@ const VIDEOS = [
     source: 'Palisades Gold Radio',
   },
 
+  {
+    id: 'v2961',
+    title: 'SINBAD | Full Movie | The Island & The Dark Mountain | 1001 Arabian Nights (4K)',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'vLm6CGqqf2k',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'SAGAS',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
