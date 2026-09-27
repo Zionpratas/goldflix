@@ -30700,6 +30700,20 @@ const VIDEOS = [
     source: 'SAGAS',
   },
 
+  {
+    id: 'v2962',
+    title: 'Handmade Gold Jhumka Making || How to Make Gold Earrings Handmade || Gold Jewellery Making Handmade',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'aw0BSjX_5e4',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['joalheria', 'ouro'],
+    rating: 4.5,
+    source: 'Gold Tips',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
