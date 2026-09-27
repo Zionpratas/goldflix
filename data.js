@@ -30728,6 +30728,20 @@ const VIDEOS = [
     source: 'Breno Perrucho - Jovens de Negócios',
   },
 
+  {
+    id: 'v2964',
+    title: 'How Did Humans Discover Platinum?',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'v9wOFx-Kkc4',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['prata'],
+    rating: 4.5,
+    source: 'Odd Questions',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
