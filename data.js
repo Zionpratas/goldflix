@@ -30882,6 +30882,20 @@ const VIDEOS = [
     source: 'Business Insider',
   },
 
+  {
+    id: 'v2975',
+    title: 'Descobriram diamante de 647 quilates em Coromandel MG — 38% maior que o recorde da Rússia',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'sx1hEwm7mfY',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Espanhol',
+    subtitles: 'PT-BR (auto)',
+    categories: ['diamantes', 'historia'],
+    rating: 4.5,
+    source: 'Documentario Legal',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
