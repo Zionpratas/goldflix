@@ -30868,6 +30868,20 @@ const VIDEOS = [
     source: 'Statrys',
   },
 
+  {
+    id: 'v2974',
+    title: 'Historic Jewelry Worth Over £1 Million At Prestigious London Store',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'eQX9rRUGdKM',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['joalheria'],
+    rating: 4.5,
+    source: 'Business Insider',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
