@@ -30826,6 +30826,20 @@ const VIDEOS = [
     source: 'The Rich Rabbit',
   },
 
+  {
+    id: 'v2971',
+    title: 'Gold Revaluation: Gold Has Become The Dominant Foreign Central Bank Reserve | Luke Groman Gold',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'jRvDsf9n_Rs',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['prata', 'historia', 'ouro', 'mercado'],
+    rating: 4.5,
+    source: 'Gold Silver Investing',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
