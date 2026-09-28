@@ -30812,6 +30812,20 @@ const VIDEOS = [
     source: 'Frame Process',
   },
 
+  {
+    id: 'v2970',
+    title: 'Tiffany & Co Jewelry Company Documentary',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'FWt3jtBQz5E',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['luxo', 'joalheria'],
+    rating: 4.5,
+    source: 'The Rich Rabbit',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
