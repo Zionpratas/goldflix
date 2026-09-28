@@ -30896,6 +30896,20 @@ const VIDEOS = [
     source: 'Documentario Legal',
   },
 
+  {
+    id: 'v2976',
+    title: 'GOLD Hit $190 And Americans Couldn\'t Legally Buy It',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'kHm0epBoEDI',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['prata', 'ouro'],
+    rating: 4.5,
+    source: 'GoldSilver ',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
