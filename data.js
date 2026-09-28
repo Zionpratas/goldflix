@@ -30784,6 +30784,20 @@ const VIDEOS = [
     source: 'Shanhay Studio',
   },
 
+  {
+    id: 'v2968',
+    title: 'Breaking Into a Sealed Nazi Tunnel After 80 Years | Hunting Nazi Treasure',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'A4tHLN_qQz4',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['historia'],
+    rating: 4.5,
+    source: 'Ancient History',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
