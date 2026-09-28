@@ -30742,6 +30742,48 @@ const VIDEOS = [
     source: 'Odd Questions',
   },
 
+  {
+    id: 'v2965',
+    title: 'SINBAD | Full Movie | The Dark Mountain | 1001 Arabian Nights (4K)',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'cw5NQrlECfE',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'SAGAS',
+  },
+
+  {
+    id: 'v2966',
+    title: 'Ill-Will Hunting! | POKÉMON FULL EPISODE 45 | Season 10',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'mJ4mAlFslUg',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Pokémon TV',
+  },
+
+  {
+    id: 'v2967',
+    title: 'Dragonfall Full 4K Dark Epic Fantasy Movie | Part3 : A Song of Ice and Bone | War & Kingdom Intrigue',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'dMuL5iOaNMQ',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Shanhay Studio',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
