@@ -30840,6 +30840,34 @@ const VIDEOS = [
     source: 'Gold Silver Investing',
   },
 
+  {
+    id: 'v2972',
+    title: 'Lab Grown Diamond vs. Moissanite and How It Affects Natural Diamond Prices',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'tghbGjPaGmA',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['diamantes', 'mercado'],
+    rating: 4.5,
+    source: 'Fire & Brilliance',
+  },
+
+  {
+    id: 'v2973',
+    title: 'The diamond scam is finally collapsing (and China is behind it)',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'qf78SpQj37o',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['diamantes'],
+    rating: 4.5,
+    source: 'Statrys',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
