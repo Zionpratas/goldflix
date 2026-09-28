@@ -30910,6 +30910,20 @@ const VIDEOS = [
     source: 'GoldSilver ',
   },
 
+  {
+    id: 'v2977',
+    title: 'U2 - All I Want Is You (Official Music Video)',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'k0W_ybghFzg',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'U2VEVO',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
