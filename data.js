@@ -30798,6 +30798,20 @@ const VIDEOS = [
     source: 'Ancient History',
   },
 
+  {
+    id: 'v2969',
+    title: '💎👑 Inside a Massive Factory | How Pink Diamonds Become a Luxury Royal Crown',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'niDGXg-Kzjc',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['diamantes', 'historia', 'luxo'],
+    rating: 4.5,
+    source: 'Frame Process',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
