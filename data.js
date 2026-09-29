@@ -30980,6 +30980,20 @@ const VIDEOS = [
     source: 'Rony Vernet',
   },
 
+  {
+    id: 'v2982',
+    title: 'China Is Scouring the Planet for Gold as the Fiat System Cracks.',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '0M02CdiOzqE',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'maneco64',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
