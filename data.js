@@ -31022,6 +31022,20 @@ const VIDEOS = [
     source: 'Play For Forever',
   },
 
+  {
+    id: 'v2985',
+    title: 'The Cartier Tiara With a Secret: Inside the Life of Princess Marie Louise',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'MT_KUetUiVg',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['diamantes', 'luxo'],
+    rating: 4.5,
+    source: 'Diamond Post',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
