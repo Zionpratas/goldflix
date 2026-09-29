@@ -31036,6 +31036,20 @@ const VIDEOS = [
     source: 'Diamond Post',
   },
 
+  {
+    id: 'v2986',
+    title: 'Archaeological Discoveries That Have Experts Completely Baffled | Marathon',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '0culPNQWGFs',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Origins Explained',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
