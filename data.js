@@ -30924,6 +30924,20 @@ const VIDEOS = [
     source: 'U2VEVO',
   },
 
+  {
+    id: 'v2978',
+    title: 'Inside the BIGGEST Platinum Factory | From Raw Platinum to Luxury Jewelry (Full Process)',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'yCelF2TdCGM',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['prata', 'joalheria'],
+    rating: 4.5,
+    source: 'Industrial King',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
