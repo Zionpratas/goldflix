@@ -30952,6 +30952,34 @@ const VIDEOS = [
     source: 'Botswana Insight',
   },
 
+  {
+    id: 'v2980',
+    title: 'Brazil Women beat USA for their first Volleyball Gold | Beijing 2008 | Throwback Thursday',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'zvVg4RxkekU',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Olympic Games',
+  },
+
+  {
+    id: 'v2981',
+    title: 'DOCUMENTÁRIO FENÔMENOS NA AMAZÔNIA: ENCONTROS INDÍGENAS',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'wrsbiwaSfXM',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Rony Vernet',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
