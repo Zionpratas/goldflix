@@ -31008,6 +31008,20 @@ const VIDEOS = [
     source: 'CineSpace',
   },
 
+  {
+    id: 'v2984',
+    title: 'The Solitary Billionaire: J Paul Getty (1963) Dir. Jack Gold FULL FILM',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'K2HPSHAIPag',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Play For Forever',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
