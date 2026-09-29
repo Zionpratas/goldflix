@@ -30994,6 +30994,20 @@ const VIDEOS = [
     source: 'maneco64',
   },
 
+  {
+    id: 'v2983',
+    title: 'A Detective Starts Investigating a Murder… Then the Case Gets Personal | Crime Thriller',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'UK6EGs8_8OQ',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['mercado'],
+    rating: 4.5,
+    source: 'CineSpace',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
