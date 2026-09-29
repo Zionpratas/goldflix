@@ -30938,6 +30938,20 @@ const VIDEOS = [
     source: 'Industrial King',
   },
 
+  {
+    id: 'v2979',
+    title: 'Botswana Diamond Cutting & Polishing',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'iMNu6SjTwBE',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['diamantes'],
+    rating: 4.5,
+    source: 'Botswana Insight',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
