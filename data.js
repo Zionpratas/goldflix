@@ -31148,6 +31148,20 @@ const VIDEOS = [
     source: 'Backstairs Files',
   },
 
+  {
+    id: 'v2994',
+    title: 'How London became the dirty money capital of the world | FT Film',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'gyk12Wf_TeQ',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Financial Times',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
