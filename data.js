@@ -31064,6 +31064,34 @@ const VIDEOS = [
     source: 'Panama museum',
   },
 
+  {
+    id: 'v2988',
+    title: '3 Hours On All You Need To Know About The Klondike Gold Rush',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'iSaNeg3pWtI',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['historia', 'ouro'],
+    rating: 4.5,
+    source: 'All Out History - Premium History Documentaries ',
+  },
+
+  {
+    id: 'v2989',
+    title: 'Dirty Business: How Mining Made Australia - Full Documentary',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'fPKS_fb2_l4',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['mineracao'],
+    rating: 4.5,
+    source: 'Sterling Documentaries',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
