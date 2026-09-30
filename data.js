@@ -31050,6 +31050,20 @@ const VIDEOS = [
     source: 'Origins Explained',
   },
 
+  {
+    id: 'v2987',
+    title: 'gold plates discovered in an ancient pre-colombian  tomb',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'DnS0DILuLhs',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['historia', 'ouro'],
+    rating: 4.5,
+    source: 'Panama museum',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
