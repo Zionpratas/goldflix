@@ -31162,6 +31162,20 @@ const VIDEOS = [
     source: 'Financial Times',
   },
 
+  {
+    id: 'v2995',
+    title: 'Pakistan\'s Hidden Emerald Mines | Gem Trails of Pakistan S1E6',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'DxRX8nxx1gc',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['gemologia', 'mineracao'],
+    rating: 4.5,
+    source: 'Origin Gems®',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
