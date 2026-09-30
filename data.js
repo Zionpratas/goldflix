@@ -31092,6 +31092,20 @@ const VIDEOS = [
     source: 'Sterling Documentaries',
   },
 
+  {
+    id: 'v2990',
+    title: 'Anna Nicole Smith & Larry Birkhead: Hopelessly in Love | Full Documentary | Biography',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '32zuQ9y9EkQ',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Biography',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
