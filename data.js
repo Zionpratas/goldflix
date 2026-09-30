@@ -31176,6 +31176,20 @@ const VIDEOS = [
     source: 'Origin Gems®',
   },
 
+  {
+    id: 'v2996',
+    title: 'How Gold Ore Becomes 99.99% Pure Gold Bars | Full Refining Process',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '8vOJ9pQaZ4g',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Factory Axim ',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
