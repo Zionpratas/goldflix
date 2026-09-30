@@ -31120,6 +31120,20 @@ const VIDEOS = [
     source: 'Karen Wu',
   },
 
+  {
+    id: 'v2992',
+    title: '穷小伙意外获得神秘聚宝盆，激活了无限复制万物的神力！闯荡古玩市场一夜暴富，联手美女总裁创业，凭借神器逆袭成为行业大佬！',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'BeoSv8RelYo',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: '甜屿短剧TV',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
