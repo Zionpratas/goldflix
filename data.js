@@ -31134,6 +31134,20 @@ const VIDEOS = [
     source: '甜屿短剧TV',
   },
 
+  {
+    id: 'v2993',
+    title: 'Bound by Contract: The Dark Truth Behind Donald & Tiffany Trump\'s Relationship',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'Lf_TcaY2W4Y',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['luxo'],
+    rating: 4.5,
+    source: 'Backstairs Files',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
