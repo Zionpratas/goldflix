@@ -31106,6 +31106,20 @@ const VIDEOS = [
     source: 'Biography',
   },
 
+  {
+    id: 'v2991',
+    title: 'Descubra o WU ATELIER - oficina de joias alternativas',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'AvsYmAeNCVE',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['joalheria'],
+    rating: 4.5,
+    source: 'Karen Wu',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
