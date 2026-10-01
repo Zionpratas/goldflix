@@ -31246,6 +31246,20 @@ const VIDEOS = [
     source: 'Pearle Maaney',
   },
 
+  {
+    id: 'v3001',
+    title: '10 Most Mind-Blowing Internal Smuggling Attempts | Border Security Compilation',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'l6cFXIQ_1R4',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Border Security',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
