@@ -31260,6 +31260,20 @@ const VIDEOS = [
     source: 'Border Security',
   },
 
+  {
+    id: 'v3002',
+    title: 'Impossible Riches (Full Episode) | Cursed Gold: A Shipwreck Scandal | National Geographic',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'GpjoZ9ZP9eg',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'National Geographic',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
