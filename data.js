@@ -31218,6 +31218,20 @@ const VIDEOS = [
     source: 'HowThingsBecome',
   },
 
+  {
+    id: 'v2999',
+    title: 'Gold and Glory | Full English Adventure Movie | Treasure, Danger, Action & an Unforgettable Journey',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'xXNJyhhJf3U',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'WestEnd Cinema',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
