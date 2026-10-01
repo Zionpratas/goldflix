@@ -31358,6 +31358,20 @@ const VIDEOS = [
     source: 'Leather Forge Premium',
   },
 
+  {
+    id: 'v3009',
+    title: 'Tutankhamun\'s Golden Treasures: Secrets of Ancient Egypt\'s Goldsmiths | Roots of Egypt (1/16)',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'sNO_umCxDJE',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['historia', 'ouro'],
+    rating: 4.5,
+    source: 'wocomoHISTORY',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
