@@ -31344,6 +31344,20 @@ const VIDEOS = [
     source: 'Vodar',
   },
 
+  {
+    id: 'v3008',
+    title: 'The Ultimate Documentary: Inside a Modern Gold Factory Production Process and Refinement',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '6HtJ4aGpslc',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Leather Forge Premium',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
