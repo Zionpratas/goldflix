@@ -31316,6 +31316,20 @@ const VIDEOS = [
     source: 'jandaiamacrame',
   },
 
+  {
+    id: 'v3006',
+    title: 'Diamond Geezers & Gold Diggers | Documentary | Beyond Documentaries',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'EMn0kJvRg-8',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['diamantes', 'ouro'],
+    rating: 4.5,
+    source: 'Extreme Docs',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
