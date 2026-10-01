@@ -31190,6 +31190,20 @@ const VIDEOS = [
     source: 'Factory Axim ',
   },
 
+  {
+    id: 'v2997',
+    title: 'ELA PAGOU PARA FAZER PRO MARIDO UM TRABALHO ESPECIAL, DIGA O QUE ACHOU',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'gGAyVe-U_jY',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Adriano - Pedras Preciosas',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
