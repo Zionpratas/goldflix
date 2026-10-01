@@ -31204,6 +31204,20 @@ const VIDEOS = [
     source: 'Adriano - Pedras Preciosas',
   },
 
+  {
+    id: 'v2998',
+    title: 'From Rough to Brilliance: How Diamonds Are Cut',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'O023XHIUP1U',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['diamantes'],
+    rating: 4.5,
+    source: 'HowThingsBecome',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
