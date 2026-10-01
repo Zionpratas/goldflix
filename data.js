@@ -31274,6 +31274,48 @@ const VIDEOS = [
     source: 'National Geographic',
   },
 
+  {
+    id: 'v3003',
+    title: 'How to make ear jumkas  at home|| Beautiful 2 types of silk thread  jumkas 😍💖',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '9t7PYIPO1nA',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'RADHA NAGARAJA',
+  },
+
+  {
+    id: 'v3004',
+    title: 'More African Print Earring DIY Ideas!!!| Beautarie',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'Cj4IF7INifc',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Beautarie',
+  },
+
+  {
+    id: 'v3005',
+    title: 'Pulseira de Macramê – Copa do mundo Brasil - Modelo tubular | Tutorial Passo a Passo #96',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'wK1VM7ZFCPk',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'jandaiamacrame',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
