@@ -31232,6 +31232,20 @@ const VIDEOS = [
     source: 'WestEnd Cinema',
   },
 
+  {
+    id: 'v3000',
+    title: 'Jason Sanjay Opens Up! Cinema, Life & Lots of Fun 😂 | Pearle Maaney Show',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'FwfD0NTk4BU',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['gemologia'],
+    rating: 4.5,
+    source: 'Pearle Maaney',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
