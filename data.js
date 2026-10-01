@@ -31330,6 +31330,20 @@ const VIDEOS = [
     source: 'Extreme Docs',
   },
 
+  {
+    id: 'v3007',
+    title: 'O Que Havia Originalmente Dentro Das Pirâmides',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'gVmGD0dJqkY',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Vodar',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
