@@ -31442,6 +31442,20 @@ const VIDEOS = [
     source: 'HISTORY',
   },
 
+  {
+    id: 'v3015',
+    title: 'Why Pearls Are So Expensive? Inside Massive Luxury Pearl Farming Process',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'SQc4H-jFQnI',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['gemologia'],
+    rating: 4.5,
+    source: 'MD Factory Files',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
