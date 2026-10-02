@@ -31372,6 +31372,20 @@ const VIDEOS = [
     source: 'wocomoHISTORY',
   },
 
+  {
+    id: 'v3010',
+    title: 'Queen Elizabeth II\'s Tiaras',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'wqqp9s86B5g',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['historia'],
+    rating: 4.5,
+    source: 'History Tea Time with Lindsay Holiday',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
