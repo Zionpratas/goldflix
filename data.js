@@ -31400,6 +31400,34 @@ const VIDEOS = [
     source: 'Tainara Fernandes',
   },
 
+  {
+    id: 'v3012',
+    title: 'Perfect Method! “24K Pure Gold Extraction from Million Old Smartphones — Inside the Factory Process',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '_gOKQ-LoAT0',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Asian Skills Media ',
+  },
+
+  {
+    id: 'v3013',
+    title: 'The Powers of Precious Metals | Dr. Robert Gilbert on AMP',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'u554lZ5OyCk',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Aubrey Marcus Clips',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
