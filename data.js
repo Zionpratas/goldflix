@@ -31386,6 +31386,20 @@ const VIDEOS = [
     source: 'History Tea Time with Lindsay Holiday',
   },
 
+  {
+    id: 'v3011',
+    title: 'Joalheria do zero: Como começar e minha jornada na ourivesaria e design de joias',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'xu5NClF0JMA',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['joalheria'],
+    rating: 4.5,
+    source: 'Tainara Fernandes',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
