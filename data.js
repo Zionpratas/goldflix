@@ -31428,6 +31428,20 @@ const VIDEOS = [
     source: 'Aubrey Marcus Clips',
   },
 
+  {
+    id: 'v3014',
+    title: 'Modern Marvels: How Copper Built the World (S13, E37) | Full Episode | History',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'ImQK4LPBHu4',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['historia'],
+    rating: 4.5,
+    source: 'HISTORY',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
