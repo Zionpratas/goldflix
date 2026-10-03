@@ -31470,6 +31470,20 @@ const VIDEOS = [
     source: 'Gold Silver Investing',
   },
 
+  {
+    id: 'v3017',
+    title: 'Life in Sierra Leone: Africa\'s Most Peaceful Nation with Full of DIAMONDS | 4K Documentary',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'ioLtVRNGbKo',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['diamantes'],
+    rating: 4.5,
+    source: 'Interless',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
