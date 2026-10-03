@@ -31526,6 +31526,20 @@ const VIDEOS = [
     source: 'Ground Truth Geology',
   },
 
+  {
+    id: 'v3021',
+    title: 'BVLGARI: “Dreams come true” a special project by Ulviyya Mahmud',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'VBXAIcfpsO8',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Nargis Magazine',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
