@@ -31540,6 +31540,20 @@ const VIDEOS = [
     source: 'Nargis Magazine',
   },
 
+  {
+    id: 'v3022',
+    title: '"Start Buying Gold ASAP..." - John Rubino',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'hkLIWL38fEI',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'LifeWorthLiving',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
