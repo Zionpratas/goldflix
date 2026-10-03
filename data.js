@@ -31568,6 +31568,20 @@ const VIDEOS = [
     source: 'Business Insider',
   },
 
+  {
+    id: 'v3024',
+    title: 'Revealing The Forgotten Egyptian Royal Jewelry Secrets',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'eJdjHm1skNw',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['gemologia', 'historia', 'joalheria'],
+    rating: 4.5,
+    source: 'House of Gems',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
