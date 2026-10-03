@@ -31484,6 +31484,20 @@ const VIDEOS = [
     source: 'Interless',
   },
 
+  {
+    id: 'v3018',
+    title: 'Secrets Of Royal Treasures| Faberge Eggs & the Crown Jewels   Stories |British Royal Documentary',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'mRAQF4_jwks',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['historia', 'luxo', 'joalheria'],
+    rating: 4.5,
+    source: 'Royal Documentary',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
