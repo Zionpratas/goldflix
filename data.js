@@ -31582,6 +31582,20 @@ const VIDEOS = [
     source: 'House of Gems',
   },
 
+  {
+    id: 'v3025',
+    title: 'Finding the Money | FULL DOCUMENTARY | Politics/Economics',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'x3TJFoQWCHA',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Giant Pictures',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
