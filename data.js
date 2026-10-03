@@ -31498,6 +31498,34 @@ const VIDEOS = [
     source: 'Royal Documentary',
   },
 
+  {
+    id: 'v3019',
+    title: 'Central Banks Are Buying Gold and Nobody Is Talking About It',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'ShFjx4qg9xI',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro', 'mercado'],
+    rating: 4.5,
+    source: 'Impera Codex',
+  },
+
+  {
+    id: 'v3020',
+    title: 'From Dirt to Central Bank Vaults: The Engineering & Economics of Gold Mining',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'PtOlUS6Cgxs',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['mercado', 'ouro', 'mineracao'],
+    rating: 4.5,
+    source: 'Ground Truth Geology',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
