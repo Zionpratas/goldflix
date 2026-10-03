@@ -31596,6 +31596,20 @@ const VIDEOS = [
     source: 'Giant Pictures',
   },
 
+  {
+    id: 'v3026',
+    title: 'Terminus Eldorado',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'fKQVY3AqwVA',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['mercado'],
+    rating: 4.5,
+    source: 'Investigation',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
