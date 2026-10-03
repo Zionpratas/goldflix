@@ -31554,6 +31554,20 @@ const VIDEOS = [
     source: 'LifeWorthLiving',
   },
 
+  {
+    id: 'v3023',
+    title: 'Inside America\'s $66 Billion Bet To Beat China\'s Shipbuilding Empire',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'kBP-bVci-IM',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Business Insider',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
