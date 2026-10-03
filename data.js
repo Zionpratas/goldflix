@@ -31456,6 +31456,20 @@ const VIDEOS = [
     source: 'MD Factory Files',
   },
 
+  {
+    id: 'v3016',
+    title: 'The \'Buy Gold\' Memo: Why the West is Finally Waking Up | Luke Gromen Silver Price Forecast',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'pPEGhopf4VI',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['prata', 'ouro', 'mercado'],
+    rating: 4.5,
+    source: 'Gold Silver Investing',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
