@@ -31666,6 +31666,20 @@ const VIDEOS = [
     source: 'Diamond Post',
   },
 
+  {
+    id: 'v3031',
+    title: 'He Found a Map to Alexander’s Lost Diamond… Then the Hunt Began | Full Movie',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'SMS0HBStUIQ',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['diamantes'],
+    rating: 4.5,
+    source: 'Black Meridian',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
