@@ -31610,6 +31610,20 @@ const VIDEOS = [
     source: 'Investigation',
   },
 
+  {
+    id: 'v3027',
+    title: 'Gems and Minerals-The Ultimate Rock Video-1989 Laserdisc HD Encode',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'XiXLFYe3e60',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['gemologia', 'mineracao'],
+    rating: 4.5,
+    source: 'Josh Reeves The Global Reality Channel',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
