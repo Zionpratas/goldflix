@@ -31652,6 +31652,20 @@ const VIDEOS = [
     source: 'APMEX',
   },
 
+  {
+    id: 'v3030',
+    title: 'Queen Catherine: The Crown, Tiaras & Diamonds She Gets (and Doesn\'t)',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'ZejBmHLAK6w',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['diamantes', 'luxo', 'historia'],
+    rating: 4.5,
+    source: 'Diamond Post',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
