@@ -31624,6 +31624,20 @@ const VIDEOS = [
     source: 'Josh Reeves The Global Reality Channel',
   },
 
+  {
+    id: 'v3028',
+    title: 'Uncovering The Secrets Behind The Best Well Kept Treasures',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'jY4rFnMhbXc',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['historia'],
+    rating: 4.5,
+    source: 'Real History',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
