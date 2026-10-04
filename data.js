@@ -31638,6 +31638,20 @@ const VIDEOS = [
     source: 'Real History',
   },
 
+  {
+    id: 'v3029',
+    title: 'Why Analysts Agree on Gold’s Direction',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'FhX3JPkAbLI',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'APMEX',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
