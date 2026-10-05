@@ -31750,6 +31750,20 @@ const VIDEOS = [
     source: 'Atelier Escola Flavio Franco',
   },
 
+  {
+    id: 'v3037',
+    title: 'Cleopatra\'s Final Secret (Full Episode) | Documentary Special | National Geographic',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'xTS1NFGcWPE',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'National Geographic',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
