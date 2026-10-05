@@ -31694,6 +31694,20 @@ const VIDEOS = [
     source: 'FINAiUS',
   },
 
+  {
+    id: 'v3033',
+    title: 'Jul Dizon Jewellery Documentary Film',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'qaXNVLOOKZ4',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['joalheria'],
+    rating: 4.5,
+    source: 'Midnight Bonkers',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
