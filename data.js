@@ -31736,6 +31736,20 @@ const VIDEOS = [
     source: 'Ici et ailleurs, voyages',
   },
 
+  {
+    id: 'v3036',
+    title: 'Entrevista com o mestre Carlos Salem',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'vCs8YvxzWzY',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Atelier Escola Flavio Franco',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
