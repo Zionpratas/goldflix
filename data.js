@@ -31680,6 +31680,20 @@ const VIDEOS = [
     source: 'Black Meridian',
   },
 
+  {
+    id: 'v3032',
+    title: 'UBS - The Bank of Dirty Money | Full Documentary',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'aw5i2EB0zg0',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['mercado'],
+    rating: 4.5,
+    source: 'FINAiUS',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
