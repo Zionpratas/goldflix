@@ -31708,6 +31708,20 @@ const VIDEOS = [
     source: 'Midnight Bonkers',
   },
 
+  {
+    id: 'v3034',
+    title: 'The Largest Single Silver Discovery Ever Made in the United States',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'XHDc4KNBMeE',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['prata'],
+    rating: 4.5,
+    source: 'GeoScope ',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
