@@ -31722,6 +31722,20 @@ const VIDEOS = [
     source: 'GeoScope ',
   },
 
+  {
+    id: 'v3035',
+    title: 'Suriname: Inside the Dangerous Roads to Amazon Gold',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'MQ9bikt7BZ0',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Ici et ailleurs, voyages',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
