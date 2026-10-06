@@ -31792,6 +31792,20 @@ const VIDEOS = [
     source: 'Moconomy',
   },
 
+  {
+    id: 'v3040',
+    title: 'The Mysteries of Ancient Ireland | Full Series',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '1ya0WMLlduw',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['historia'],
+    rating: 4.5,
+    source: 'History Hit',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
