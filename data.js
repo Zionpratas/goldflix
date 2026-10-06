@@ -31764,6 +31764,20 @@ const VIDEOS = [
     source: 'National Geographic',
   },
 
+  {
+    id: 'v3038',
+    title: 'A Once in a Lifetime Financial Reset is Coming. (Why Gold is Next)',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'TAQnObYCjVw',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Money Strategist',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
