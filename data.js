@@ -31820,6 +31820,20 @@ const VIDEOS = [
     source: '5 stars Entertainment',
   },
 
+  {
+    id: 'v3042',
+    title: 'Inside South Africa’s Diamond Factory | From Rough Stone to $Millions in Diamonds (full Process)',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '0AE3B8bDAbc',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['diamantes'],
+    rating: 4.5,
+    source: 'Factory Frame .117k Views•…',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
