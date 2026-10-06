@@ -31806,6 +31806,20 @@ const VIDEOS = [
     source: 'History Hit',
   },
 
+  {
+    id: 'v3041',
+    title: 'BLADE WALL (2026) | Jason Statham | Full Action Movie',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'pFXXOQ2UUPM',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: '5 stars Entertainment',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
