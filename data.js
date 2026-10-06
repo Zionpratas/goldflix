@@ -31848,6 +31848,20 @@ const VIDEOS = [
     source: 'Capitanias',
   },
 
+  {
+    id: 'v3044',
+    title: 'They Break Out of Prison to Get to the HIDDEN DIAMONDS | Full Action Crime Movie',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'j34F2-9-jes',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['diamantes'],
+    rating: 4.5,
+    source: 'Epic Movie Journey',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
