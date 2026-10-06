@@ -31778,6 +31778,20 @@ const VIDEOS = [
     source: 'Money Strategist',
   },
 
+  {
+    id: 'v3039',
+    title: 'Sunken Ships Exploration | Treasures in the Deep Sea',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'QxMiEJIMQNw',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Moconomy',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
