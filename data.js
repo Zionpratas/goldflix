@@ -31862,6 +31862,20 @@ const VIDEOS = [
     source: 'Epic Movie Journey',
   },
 
+  {
+    id: 'v3045',
+    title: 'Gold Bar Bob: The Fall of Senator Bob Menendez (Full Documentary)',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '7RrEAqEvkHk',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Toxic Paper',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
