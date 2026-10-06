@@ -31834,6 +31834,20 @@ const VIDEOS = [
     source: 'Factory Frame .117k Views•…',
   },
 
+  {
+    id: 'v3043',
+    title: 'O Ouro, o Sangue e a História Oculta de Goiás | Documentário Completo',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'Q0nBnrk0FXU',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Capitanias',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
