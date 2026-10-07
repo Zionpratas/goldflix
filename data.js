@@ -31904,6 +31904,20 @@ const VIDEOS = [
     source: 'Innovation Beat',
   },
 
+  {
+    id: 'v3048',
+    title: 'BRAZIL WAS ABOUT TO BE ELIMINATED FROM THE WORLD CUP, UNTIL RONALDINHO CAME ON AND DECIDED THE GAME',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'UEyvvLMM7Jo',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Germano Socceer',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
