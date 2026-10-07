@@ -32072,6 +32072,20 @@ const VIDEOS = [
     source: 'Tay Rae',
   },
 
+  {
+    id: 'v3060',
+    title: 'Why Are Americans Moving Their Money Into Gold?',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '1I2kvsPI11c',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'CapitalNova',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
