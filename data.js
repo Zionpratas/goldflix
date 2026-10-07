@@ -32016,6 +32016,20 @@ const VIDEOS = [
     source: 'Justin K Prim',
   },
 
+  {
+    id: 'v3056',
+    title: '755 - My Pokemon Ruby Badge Quest "Movie"',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'CXMnPIsMy_s',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['gemologia'],
+    rating: 4.5,
+    source: 'AbsolBlogsPokemon',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
