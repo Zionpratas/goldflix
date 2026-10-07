@@ -31988,6 +31988,20 @@ const VIDEOS = [
     source: 'Canal History Brasil',
   },
 
+  {
+    id: 'v3054',
+    title: 'Mummification Across The World | Ancient Aliens',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'Xorxj6hmPlc',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['historia'],
+    rating: 4.5,
+    source: 'HISTORY',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
