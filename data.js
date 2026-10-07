@@ -31932,6 +31932,20 @@ const VIDEOS = [
     source: 'Origins Explained',
   },
 
+  {
+    id: 'v3050',
+    title: 'Digging for MILLIONS: Inside an Australian Gold Mine!',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'TxfBv6DvBhE',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['mineracao', 'ouro'],
+    rating: 4.5,
+    source: 'BuildWitt',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
