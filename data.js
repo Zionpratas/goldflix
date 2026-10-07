@@ -32044,6 +32044,20 @@ const VIDEOS = [
     source: 'MD Factory Files',
   },
 
+  {
+    id: 'v3058',
+    title: 'The West Froze $300 Billion. GOLD Broke A 50-Year Rule',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'rbS0XkuF9BE',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro', 'prata'],
+    rating: 4.5,
+    source: 'GoldSilver ',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
