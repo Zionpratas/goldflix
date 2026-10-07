@@ -32030,6 +32030,20 @@ const VIDEOS = [
     source: 'AbsolBlogsPokemon',
   },
 
+  {
+    id: 'v3057',
+    title: 'How Hard Is It to Make Millions of 99 99% Pure Gold Bars Inside Massive Gold Refining Process',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'hQVom4-bv9c',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'MD Factory Files',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
