@@ -31918,6 +31918,20 @@ const VIDEOS = [
     source: 'Germano Socceer',
   },
 
+  {
+    id: 'v3049',
+    title: 'Most BIZARRE Recent Archaeological Discoveries | Marathon',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'v1bC0iz3x64',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Origins Explained',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
