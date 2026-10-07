@@ -31876,6 +31876,34 @@ const VIDEOS = [
     source: 'Toxic Paper',
   },
 
+  {
+    id: 'v3046',
+    title: 'Burkina Faso Just Opened Its First Gold Refinery — What Changes Now?',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'B5-OsQ5Zu98',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'TRAORÉ: Burkina & Beyond',
+  },
+
+  {
+    id: 'v3047',
+    title: 'Inside Medieval Gold Refining: The Secret Process Behind a King’s Treasure (Full Process)',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'WntqU2deO7g',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Innovation Beat',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
