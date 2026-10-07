@@ -32058,6 +32058,20 @@ const VIDEOS = [
     source: 'GoldSilver ',
   },
 
+  {
+    id: 'v3059',
+    title: 'Let’s cut a Montana sapphire!',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'IsoPwPKLNZY',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['gemologia'],
+    rating: 4.5,
+    source: 'Tay Rae',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
