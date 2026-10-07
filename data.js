@@ -32002,6 +32002,20 @@ const VIDEOS = [
     source: 'HISTORY',
   },
 
+  {
+    id: 'v3055',
+    title: 'Lapidary Medicine & its Influence on Gemstone Cutting Technology  - Justin K Prim - Webinar History',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '_KMp7UBS0YA',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['historia', 'gemologia'],
+    rating: 4.5,
+    source: 'Justin K Prim',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
