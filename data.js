@@ -31946,6 +31946,20 @@ const VIDEOS = [
     source: 'BuildWitt',
   },
 
+  {
+    id: 'v3051',
+    title: 'The Ancient Tool Found in a New Mexico Silver Mine — The Apache Said It Was Left Behind',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '_JPGsCiBCf0',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['mineracao', 'historia', 'prata'],
+    rating: 4.5,
+    source: 'Erased Time',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
