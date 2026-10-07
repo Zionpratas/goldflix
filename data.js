@@ -31960,6 +31960,20 @@ const VIDEOS = [
     source: 'Erased Time',
   },
 
+  {
+    id: 'v3052',
+    title: 'Gold Holds Its Ground as Central Banks Keep Buying',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'R8mKz-Z2B4M',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['mercado', 'ouro'],
+    rating: 4.5,
+    source: 'StoneX',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
