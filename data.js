@@ -31974,6 +31974,20 @@ const VIDEOS = [
     source: 'StoneX',
   },
 
+  {
+    id: 'v3053',
+    title: 'A CIDADE DE OURO QUE LEVOU EXPLORADORES AO BRASIL | Grandes Mistérios da História | Ep. Completo',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'b_1D0NT0POw',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['historia', 'ouro'],
+    rating: 4.5,
+    source: 'Canal History Brasil',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
