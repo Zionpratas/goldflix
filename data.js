@@ -32156,6 +32156,20 @@ const VIDEOS = [
     source: 'Platinum mines',
   },
 
+  {
+    id: 'v3066',
+    title: 'The $9 Billion Jewelry Empire That No Cartier Was Left to Own',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'j63cRlmvkFA',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['luxo', 'joalheria'],
+    rating: 4.5,
+    source: 'House of Ruin',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
