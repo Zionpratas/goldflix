@@ -32212,6 +32212,34 @@ const VIDEOS = [
     source: 'Voillot Patrick',
   },
 
+  {
+    id: 'v3070',
+    title: 'UBS Bank Secrets Exposed – From Nazi Gold to Global Power | Full Documentary',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'hCil1rJwT6w',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['mercado', 'ouro'],
+    rating: 4.5,
+    source: 'Zimo Voice',
+  },
+
+  {
+    id: 'v3071',
+    title: '5 Times Central Banks Shifted Their Reserves to Gold',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'u-3LiiZFXhg',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['mercado', 'ouro'],
+    rating: 4.5,
+    source: 'Independent Financial Historian',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
