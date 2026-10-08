@@ -32184,6 +32184,20 @@ const VIDEOS = [
     source: 'Naturando',
   },
 
+  {
+    id: 'v3068',
+    title: 'Klondike: The Last Gold Rush',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'pxhREu7wz0M',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Geographics',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
