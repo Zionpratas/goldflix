@@ -32198,6 +32198,20 @@ const VIDEOS = [
     source: 'Geographics',
   },
 
+  {
+    id: 'v3069',
+    title: 'The Emerald of Colombia documentary of Patrick Voillot',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'KJWTz12LPvk',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['gemologia'],
+    rating: 4.5,
+    source: 'Voillot Patrick',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
