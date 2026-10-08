@@ -32086,6 +32086,20 @@ const VIDEOS = [
     source: 'CapitalNova',
   },
 
+  {
+    id: 'v3061',
+    title: 'The Greatest Fraud In Human History | Prof. Richard Werner',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'uVlx2en1RRc',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['historia'],
+    rating: 4.5,
+    source: 'The Peter McCormack Show',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
