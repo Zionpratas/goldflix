@@ -32142,6 +32142,20 @@ const VIDEOS = [
     source: 'How Things Become',
   },
 
+  {
+    id: 'v3065',
+    title: '8 Oct ',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'QZODMQAzrbc',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['mineracao', 'prata'],
+    rating: 4.5,
+    source: 'Platinum mines',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
