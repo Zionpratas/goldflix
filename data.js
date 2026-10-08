@@ -32170,6 +32170,20 @@ const VIDEOS = [
     source: 'House of Ruin',
   },
 
+  {
+    id: 'v3067',
+    title: 'GARIMPO da RUÍNA: a beleza dourada que enlouquece os homens! Entrou casado, saiu solteiro!',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'Tjc0Y3oJImk',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['mineracao'],
+    rating: 4.5,
+    source: 'Naturando',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
