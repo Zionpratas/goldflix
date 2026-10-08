@@ -32100,6 +32100,20 @@ const VIDEOS = [
     source: 'The Peter McCormack Show',
   },
 
+  {
+    id: 'v3062',
+    title: 'Brass Groove Brasil e Nos Trink Crew - TAC 7:30',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'OT3f0WQKOk4',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Fundação Catarinense de Cultura FCC',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
