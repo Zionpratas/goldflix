@@ -32114,6 +32114,20 @@ const VIDEOS = [
     source: 'Fundação Catarinense de Cultura FCC',
   },
 
+  {
+    id: 'v3063',
+    title: 'Building for the Pharaohs | Egypt: Engineering an Empire | Full Special',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'SAPIPBLt988',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['historia'],
+    rating: 4.5,
+    source: 'HISTORY',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
