@@ -32128,6 +32128,20 @@ const VIDEOS = [
     source: 'HISTORY',
   },
 
+  {
+    id: 'v3064',
+    title: 'How Lab-Grown Diamonds Are Made | Inside the Factory',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'IDs47AFHvdo',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['diamantes'],
+    rating: 4.5,
+    source: 'How Things Become',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
