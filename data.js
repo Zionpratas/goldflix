@@ -32240,6 +32240,20 @@ const VIDEOS = [
     source: 'Independent Financial Historian',
   },
 
+  {
+    id: 'v3072',
+    title: 'The jewellery collection and unhappy life of Egypt\'s first queen, Nazli Sabri',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'X3VrfHlfVDk',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['historia', 'joalheria'],
+    rating: 4.5,
+    source: 'Jewellery Stories ',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
