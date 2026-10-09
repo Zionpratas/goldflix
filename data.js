@@ -32310,6 +32310,20 @@ const VIDEOS = [
     source: 'Anif G',
   },
 
+  {
+    id: 'v3077',
+    title: 'The Royal Mint Found Gold. Why Didn\'t It Find Profit?',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'qGfBiQqN0Pc',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Margin & Machine',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
