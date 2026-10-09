@@ -32296,6 +32296,20 @@ const VIDEOS = [
     source: 'LUCIFERIAN',
   },
 
+  {
+    id: 'v3076',
+    title: 'how to make gold signet ring - how it\'s made jewellery',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'x1KmZIMKsSg',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro', 'joalheria'],
+    rating: 4.5,
+    source: 'Anif G',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
