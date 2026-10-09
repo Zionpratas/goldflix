@@ -32268,6 +32268,34 @@ const VIDEOS = [
     source: 'Amador da Inteligência Artificial',
   },
 
+  {
+    id: 'v3074',
+    title: 'How String Theory Is The Theory of Everything? | Space Documentary 2024',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '38mb-_l8Bzk',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Space Matters',
+  },
+
+  {
+    id: 'v3075',
+    title: 'BLACKHEARTS - BLACK METAL DOCUMENTARY - 2017',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'giQzUq9I-_o',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'LUCIFERIAN',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
