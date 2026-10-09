@@ -32366,6 +32366,20 @@ const VIDEOS = [
     source: 'Tudo Sobre Ourivesaria',
   },
 
+  {
+    id: 'v3081',
+    title: 'How Modern Weapons Disappear From the Battlefield | Full Documentary',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'rmLdIn3okbo',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Get.factual',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
