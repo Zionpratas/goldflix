@@ -32254,6 +32254,20 @@ const VIDEOS = [
     source: 'Jewellery Stories ',
   },
 
+  {
+    id: 'v3073',
+    title: 'JORNADA HUMANA [Dublado] EUROPA - Documentário (2009)',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'dpGO34I8i4U',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Amador da Inteligência Artificial',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
