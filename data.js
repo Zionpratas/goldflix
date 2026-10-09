@@ -32324,6 +32324,48 @@ const VIDEOS = [
     source: 'Margin & Machine',
   },
 
+  {
+    id: 'v3078',
+    title: 'Como Eu Iniciei Na Joalheria - Minha História!',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '6asMTGEKtFw',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Manual da Joalheria',
+  },
+
+  {
+    id: 'v3079',
+    title: 'Visita ao atelier da H.Stern | #DDBprojetos - TV Beauté | Vic Ceridono',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'Bu8P536RBoI',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Dia de Beauté por Vic Ceridono',
+  },
+
+  {
+    id: 'v3080',
+    title: 'REFORMA DE ANEL DE OURO - série CONSERTOS DE JOIAS',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'EYTcHkayrGk',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['ouro', 'joalheria'],
+    rating: 4.5,
+    source: 'Tudo Sobre Ourivesaria',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
