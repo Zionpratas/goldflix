@@ -32660,6 +32660,20 @@ const VIDEOS = [
     source: 'World Vantage',
   },
 
+  {
+    id: 'v3102',
+    title: 'The Price of Pearls',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'oi-zJaCbKu4',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['mercado', 'gemologia'],
+    rating: 4.5,
+    source: 'apwsl',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
