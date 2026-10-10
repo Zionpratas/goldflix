@@ -32674,6 +32674,20 @@ const VIDEOS = [
     source: 'apwsl',
   },
 
+  {
+    id: 'v3103',
+    title: 'A New Art. Metamorphoses of Jewelry, 1880-1914',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'cjolBn4Yt2I',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['joalheria'],
+    rating: 4.5,
+    source: 'L\'ÉCOLE, School of Jewelry Arts',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
