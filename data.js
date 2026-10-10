@@ -32450,6 +32450,20 @@ const VIDEOS = [
     source: 'History of Everything – Sleepy Stories',
   },
 
+  {
+    id: 'v3087',
+    title: 'The Journey of Opal: From Hidden Rock to Mesmerizing Gemstone',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '8iW4qecIz8o',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['gemologia'],
+    rating: 4.5,
+    source: 'gemstonerecovery',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
