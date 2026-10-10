@@ -32604,6 +32604,34 @@ const VIDEOS = [
     source: 'mbmmllc',
   },
 
+  {
+    id: 'v3098',
+    title: 'The California Gold Rush (1849): America\'s Wildest Gold Fever',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'wR7IXd7i5y0',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: '    Timelinehoy',
+  },
+
+  {
+    id: 'v3099',
+    title: 'Gold Rush at Cripple Creek (1980) | BBC Documentary | Colorado Gold Rush History',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'OwWSB54BqaM',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro', 'historia'],
+    rating: 4.5,
+    source: 'Breanne kerr',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
