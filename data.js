@@ -32548,6 +32548,20 @@ const VIDEOS = [
     source: 'GMA Public Affairs',
   },
 
+  {
+    id: 'v3094',
+    title: 'Called a Gold Digger? He\'s My Uncle! #ai #FlickReels',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'lOOFVpjd27s',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'DramaTales',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
