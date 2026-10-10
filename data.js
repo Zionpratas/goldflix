@@ -32464,6 +32464,62 @@ const VIDEOS = [
     source: 'gemstonerecovery',
   },
 
+  {
+    id: 'v3088',
+    title: 'Unearthing A Mysterious Sarcophagus (Full Episode) | Kingdom of the Mummies | National Geographic',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'yDZq4dBmuaU',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'National Geographic',
+  },
+
+  {
+    id: 'v3089',
+    title: 'The 500 Years That Changed Ancient Egypt Forever | Full Documentary',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'yM_D7erkcXM',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['historia'],
+    rating: 4.5,
+    source: 'The Nile Archive',
+  },
+
+  {
+    id: 'v3090',
+    title: 'The California Gold Rush Explained: How It Changed America',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'LZ5EfhoRF58',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Ore Origins',
+  },
+
+  {
+    id: 'v3091',
+    title: 'GOLD RUSH - GOLD TOWNS (Old Wild West History Documentary)',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '3Eizum2Dkzw',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro', 'historia'],
+    rating: 4.5,
+    source: 'Sedi Regi',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
