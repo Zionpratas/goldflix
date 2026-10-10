@@ -32520,6 +32520,34 @@ const VIDEOS = [
     source: 'Sedi Regi',
   },
 
+  {
+    id: 'v3092',
+    title: '20,000 Year Old GOLD Statue Found in Antarctica - Scientists Are Speechless',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'F7XV7ZeVsmk',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Bright Side Archaeology Uncovered',
+  },
+
+  {
+    id: 'v3093',
+    title: 'PHILIPPINE TREASURES: A DOCUMENTARY SPECIAL (FULL EPISODE)',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'Iy42PNJlPls',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'GMA Public Affairs',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
