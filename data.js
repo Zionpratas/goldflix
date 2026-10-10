@@ -32380,6 +32380,20 @@ const VIDEOS = [
     source: 'Get.factual',
   },
 
+  {
+    id: 'v3082',
+    title: 'America standing up for gold & silver Feat. David Tice - LFTV Ep 166',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'jUkC8Mk3tN4',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro', 'prata'],
+    rating: 4.5,
+    source: 'Kinesis Money',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
