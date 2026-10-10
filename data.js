@@ -32688,6 +32688,20 @@ const VIDEOS = [
     source: 'L\'ÉCOLE, School of Jewelry Arts',
   },
 
+  {
+    id: 'v3104',
+    title: '**How Gem Mining Has Changed Forever! 😱 Traditional vs Modern Mining**',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'BZbmeOVvwZk',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['mineracao', 'gemologia'],
+    rating: 4.5,
+    source: 'Gem Truth Us',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
