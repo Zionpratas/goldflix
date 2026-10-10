@@ -32422,6 +32422,20 @@ const VIDEOS = [
     source: 'Billion Trace',
   },
 
+  {
+    id: 'v3085',
+    title: 'Jared Diamond - Guns Germs and Steel Audiobook',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'JQUrcUyxE0s',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['diamantes'],
+    rating: 4.5,
+    source: 'Hugo Lynch',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
