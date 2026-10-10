@@ -32562,6 +32562,20 @@ const VIDEOS = [
     source: 'DramaTales',
   },
 
+  {
+    id: 'v3095',
+    title: 'Black Diamond Presents: Hard Sends with Seb Bouin—Le Chant des Muses (9b/5.15b)',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'v1QZsWZ2VAI',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['diamantes'],
+    rating: 4.5,
+    source: 'Black Diamond Equipment',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
