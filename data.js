@@ -32632,6 +32632,20 @@ const VIDEOS = [
     source: 'Breanne kerr',
   },
 
+  {
+    id: 'v3100',
+    title: 'How People Live in Bolivia | The Town Built on the Edge of a Mine | 4K Travel Documentary',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '2ZNk51xu1aA',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['mineracao'],
+    rating: 4.5,
+    source: 'Worlds Apart',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
