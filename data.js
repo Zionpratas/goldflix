@@ -32646,6 +32646,20 @@ const VIDEOS = [
     source: 'Worlds Apart',
   },
 
+  {
+    id: 'v3101',
+    title: 'The Global Gold Rush: Why Central Banks Are Buying Again',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '2dHbRY7jXsk',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro', 'mercado'],
+    rating: 4.5,
+    source: 'World Vantage',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
