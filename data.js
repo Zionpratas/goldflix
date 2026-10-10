@@ -32576,6 +32576,20 @@ const VIDEOS = [
     source: 'Black Diamond Equipment',
   },
 
+  {
+    id: 'v3096',
+    title: 'Inside Imelda Marcos\'s Secret Vault: The Billionaire Jewels You Were Never Meant to See',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '6_gCxeGSPb4',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['diamantes', 'joalheria'],
+    rating: 4.5,
+    source: 'Velvet & Diamonds',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
