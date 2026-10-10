@@ -32590,6 +32590,20 @@ const VIDEOS = [
     source: 'Velvet & Diamonds',
   },
 
+  {
+    id: 'v3097',
+    title: 'Processing 3600 Pounds of Ore from the Golden Griffin - MASSIVE Gold Recovery!! Season 2, Part 12',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'j-3qWnTkvro',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'mbmmllc',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
