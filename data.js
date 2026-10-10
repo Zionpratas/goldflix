@@ -32436,6 +32436,20 @@ const VIDEOS = [
     source: 'Hugo Lynch',
   },
 
+  {
+    id: 'v3086',
+    title: 'The Mountain That Ate a Million People for Their Silver | The History of Silver (Sleep Documentary)',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'r30d_2EfA7w',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['prata', 'historia'],
+    rating: 4.5,
+    source: 'History of Everything – Sleepy Stories',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
