@@ -32394,6 +32394,34 @@ const VIDEOS = [
     source: 'Kinesis Money',
   },
 
+  {
+    id: 'v3083',
+    title: 'Bre-X: The Billion-Dollar Gold Scandal That Fooled the World',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'hCsEj9q6Pb8',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Treasury Shadows',
+  },
+
+  {
+    id: 'v3084',
+    title: '5 Incredible Gold Heists That Shocked the World | 3 TONS VANISHED',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'NjB7DpKDF7Q',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Billion Trace',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
