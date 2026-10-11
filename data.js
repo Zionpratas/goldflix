@@ -32884,6 +32884,20 @@ const VIDEOS = [
     source: 'Edits',
   },
 
+  {
+    id: 'v3118',
+    title: '**They Threw Platinum Into Rivers — Then Discovered Its True Value**',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'j3mZIIJjF4U',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['prata', 'historia'],
+    rating: 4.5,
+    source: 'THE ANCIENT REPORT',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
