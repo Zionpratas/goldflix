@@ -32758,6 +32758,20 @@ const VIDEOS = [
     source: 'Natiruts - Topic',
   },
 
+  {
+    id: 'v3109',
+    title: 'THE CROWN JEWEL ( FULL MOVIE ) NGOZI EZEONU LATEST NIGERIAN BLOCKBUSTER MOVIE 2025',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'J0NiD-nNWyE',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['joalheria', 'historia', 'luxo'],
+    rating: 4.5,
+    source: 'NollywoodBustop Tv',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
