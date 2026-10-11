@@ -32744,6 +32744,20 @@ const VIDEOS = [
     source: 'Timeline - World History Documentaries',
   },
 
+  {
+    id: 'v3108',
+    title: 'Pedras Escondidas',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'tfYhj7TWyq0',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Natiruts - Topic',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
