@@ -32856,6 +32856,20 @@ const VIDEOS = [
     source: 'Mystery Stories😶‍🌫️',
   },
 
+  {
+    id: 'v3116',
+    title: 'Gold Will Do Things You Can\'t Even Imagine | Frank Giustra',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'NW8-mQMR4zk',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro', 'mercado'],
+    rating: 4.5,
+    source: 'Money, Markets & More with Dominic Frisby',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
