@@ -32716,6 +32716,20 @@ const VIDEOS = [
     source: 'Hory Gomes',
   },
 
+  {
+    id: 'v3106',
+    title: 'What Happened to the Ottoman Crown Jewels After the Empire Fell?',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'Pg6Zu8qJroc',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['joalheria', 'historia', 'luxo'],
+    rating: 4.5,
+    source: 'After the Crown',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
