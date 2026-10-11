@@ -32772,6 +32772,34 @@ const VIDEOS = [
     source: 'NollywoodBustop Tv',
   },
 
+  {
+    id: 'v3110',
+    title: 'The Shocking Reality of Gold Mining in Abuja | New Documentary Film',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'N1op2zzeB_g',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro', 'mineracao'],
+    rating: 4.5,
+    source: 'S24 Television',
+  },
+
+  {
+    id: 'v3111',
+    title: 'Illegal Gold - Colombian Army\'s Mission to Fight Illegal Mining | Free Documentary',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'KdWAUtSV55c',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro', 'mineracao'],
+    rating: 4.5,
+    source: 'Free Documentary',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
