@@ -32800,6 +32800,20 @@ const VIDEOS = [
     source: 'Free Documentary',
   },
 
+  {
+    id: 'v3112',
+    title: 'Manifattura Bulgari Valenza',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'RMdkvI_4thY',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['luxo'],
+    rating: 4.5,
+    source: 'Lorenzo Laudazi',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
