@@ -32702,6 +32702,20 @@ const VIDEOS = [
     source: 'Gem Truth Us',
   },
 
+  {
+    id: 'v3105',
+    title: 'Joias Egípcias( pingentes)',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '6g0ZCZk5YH0',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['joalheria'],
+    rating: 4.5,
+    source: 'Hory Gomes',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
