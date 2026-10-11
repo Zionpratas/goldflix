@@ -32814,6 +32814,20 @@ const VIDEOS = [
     source: 'Lorenzo Laudazi',
   },
 
+  {
+    id: 'v3113',
+    title: 'The Ancient Tool Found Beneath a Colorado Silver Mine — The Kettle Basin People Said It Was Not Made',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'T1Krq69d2rQ',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['prata', 'mineracao', 'historia'],
+    rating: 4.5,
+    source: 'WW2 Records Maker',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
