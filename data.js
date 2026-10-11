@@ -32828,6 +32828,20 @@ const VIDEOS = [
     source: 'WW2 Records Maker',
   },
 
+  {
+    id: 'v3114',
+    title: 'Gold Pays No Interest. So Why Do Central Banks Buy It?',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '8ZzgShRXu14',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro', 'mercado'],
+    rating: 4.5,
+    source: 'The Value Beneath',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
