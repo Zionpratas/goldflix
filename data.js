@@ -32842,6 +32842,20 @@ const VIDEOS = [
     source: 'The Value Beneath',
   },
 
+  {
+    id: 'v3115',
+    title: 'The Real Story Of Gold: From The Beginning To The End | 2 Hours 40 Minutes Gold Documentry 4K',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'yjjlua33nyI',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Mystery Stories😶‍🌫️',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
