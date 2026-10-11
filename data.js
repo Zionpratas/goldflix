@@ -32730,6 +32730,20 @@ const VIDEOS = [
     source: 'After the Crown',
   },
 
+  {
+    id: 'v3107',
+    title: 'The Unsolved Mysteries Of Ancient Egypt',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'uUZ5fUz3-Mg',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['historia'],
+    rating: 4.5,
+    source: 'Timeline - World History Documentaries',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
