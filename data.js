@@ -32870,6 +32870,20 @@ const VIDEOS = [
     source: 'Money, Markets & More with Dominic Frisby',
   },
 
+  {
+    id: 'v3117',
+    title: 'How Gold Is Made in a Factory 🏭 | From Raw Ore to Pure Gold Bars!',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'G7vqQDZdIW0',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Edits',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
