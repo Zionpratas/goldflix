@@ -32898,6 +32898,20 @@ const VIDEOS = [
     source: 'THE ANCIENT REPORT',
   },
 
+  {
+    id: 'v3119',
+    title: 'imani jewelry documentary',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'wILldbGupUA',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['joalheria'],
+    rating: 4.5,
+    source: 'imanijewelry',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
