@@ -32912,6 +32912,48 @@ const VIDEOS = [
     source: 'imanijewelry',
   },
 
+  {
+    id: 'v3120',
+    title: 'Diamonds: An Evil Scam',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'GfOAw9dUpYI',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['diamantes'],
+    rating: 4.5,
+    source: 'MagnatesMedia',
+  },
+
+  {
+    id: 'v3121',
+    title: 'How It’s Made: Gold, Diamonds & Rolex Watches',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'P_XLID-9Q38',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro', 'diamantes'],
+    rating: 4.5,
+    source: 'Captain Factory',
+  },
+
+  {
+    id: 'v3122',
+    title: 'Inside Africa\'s Largest Gold Refinery: Raw Ore to 999.9 Pure Gold',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '8MXXPemj7ts',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Epic Treasure Production',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
