@@ -32968,6 +32968,20 @@ const VIDEOS = [
     source: 'STREAM - Music and More',
   },
 
+  {
+    id: 'v3124',
+    title: 'Gold Smuggling Ka Kala Sach | Kaise Chalta Hai Pura Network?#GoldSmuggling #IndiaGoldMafia ',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'MHtajjjNRkw',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Docoentry his',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
