@@ -32954,6 +32954,20 @@ const VIDEOS = [
     source: 'Epic Treasure Production',
   },
 
+  {
+    id: 'v3123',
+    title: 'Judith Durham: Diamond Night, Live at the Festival Hall | Full Music Documentary | Music and More',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'qG2oxvJx4NM',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['diamantes'],
+    rating: 4.5,
+    source: 'STREAM - Music and More',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
