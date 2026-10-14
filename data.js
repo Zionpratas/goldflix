@@ -32982,6 +32982,20 @@ const VIDEOS = [
     source: 'Docoentry his',
   },
 
+  {
+    id: 'v3125',
+    title: 'Inside Massive Luxury Diamond Processing – How Millions of Diamonds Are Cut & Polished',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'QDyDF7ZWUTk',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['diamantes'],
+    rating: 4.5,
+    source: 'MD Factory Files',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
