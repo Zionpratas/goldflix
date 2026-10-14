@@ -32996,6 +32996,20 @@ const VIDEOS = [
     source: 'MD Factory Files',
   },
 
+  {
+    id: 'v3126',
+    title: 'Gold Rush full episodes 2026 | The Most Gold Wins (Part 1) | Best Gold Mining Documentary',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'uA_yY30FBNc',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['mineracao', 'ouro'],
+    rating: 4.5,
+    source: 'Gold Rush Chronicles TV',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
