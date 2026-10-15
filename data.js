@@ -33010,6 +33010,34 @@ const VIDEOS = [
     source: 'Gold Rush Chronicles TV',
   },
 
+  {
+    id: 'v3127',
+    title: 'Gold Rush full episodes 2026 | A Midas Mess | Best Gold Mining Documentary',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'r_zirIojgFM',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['mineracao', 'ouro'],
+    rating: 4.5,
+    source: 'Gold Rush Chronicles TV',
+  },
+
+  {
+    id: 'v3128',
+    title: 'Gold Rush full episodes 2026 | The Most Gold Wins (Part 2) | Best Gold Mining Documentary',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'XaZQS_t0_sc',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['mineracao', 'ouro'],
+    rating: 4.5,
+    source: 'Gold Rush Chronicles TV',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
