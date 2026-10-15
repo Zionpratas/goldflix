@@ -33136,6 +33136,20 @@ const VIDEOS = [
     source: 'História Documentada',
   },
 
+  {
+    id: 'v3136',
+    title: 'The Horrors of the Australian Gold Rush',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'DGQBeySDgIg',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Lost British Cities',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
