@@ -33066,6 +33066,20 @@ const VIDEOS = [
     source: 'National Geographic',
   },
 
+  {
+    id: 'v3131',
+    title: 'The Ancient Tool Found in a Tombstone Silver Mine in 1879 — The Apache Said It Was Left Behind',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'KvInLrT-HQo',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['mineracao', 'historia', 'prata'],
+    rating: 4.5,
+    source: 'Erased Time',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
