@@ -33080,6 +33080,20 @@ const VIDEOS = [
     source: 'Erased Time',
   },
 
+  {
+    id: 'v3132',
+    title: 'America’s Dollar Was Backed by Gold Until 1971 — So What’s It Backed by Now?',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '7TBgPKf32w8',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'How America Worked',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
