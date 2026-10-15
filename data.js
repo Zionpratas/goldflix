@@ -33108,6 +33108,34 @@ const VIDEOS = [
     source: 'WHATEVER THE PLOT ',
   },
 
+  {
+    id: 'v3134',
+    title: 'Vida Extrema nos Lugares Mais Inabitáveis do Planeta que Ninguém Mostra | Documentário',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'cXYgm0I7mnA',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Aurora Nações',
+  },
+
+  {
+    id: 'v3135',
+    title: 'Montanha de Ouro (1990)',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'VlAU5tqJTSI',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'História Documentada',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
