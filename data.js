@@ -33094,6 +33094,20 @@ const VIDEOS = [
     source: 'How America Worked',
   },
 
+  {
+    id: 'v3133',
+    title: 'ZIMBABWE GOLD MAFIA ALL 4 EPISODES',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'DJ0CliBAFzg',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'WHATEVER THE PLOT ',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
