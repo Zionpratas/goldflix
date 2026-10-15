@@ -33038,6 +33038,34 @@ const VIDEOS = [
     source: 'Gold Rush Chronicles TV',
   },
 
+  {
+    id: 'v3129',
+    title: 'The Hunt for Amazing Treasures Season 4 Episode 7 --  Collectibles, Shipwrecks and Buried Treasure',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '1F56Nrrg-48',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Chemistry Simplified',
+  },
+
+  {
+    id: 'v3130',
+    title: 'Discovering Long-Lost Pirate Ships | Drain the Oceans MEGA Episode | National Geographic',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '1YdZast_RLg',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'National Geographic',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
