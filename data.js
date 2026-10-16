@@ -33178,6 +33178,20 @@ const VIDEOS = [
     source: 'maneco64',
   },
 
+  {
+    id: 'v3139',
+    title: 'A Maior Jazida de Ouro Jamais Descoberta no Brasil',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'NiUaujKswEk',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Português',
+    subtitles: 'Nativo',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Riquezas Ocultas do Brasil',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
