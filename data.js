@@ -33150,6 +33150,20 @@ const VIDEOS = [
     source: 'Lost British Cities',
   },
 
+  {
+    id: 'v3137',
+    title: 'The Mafia Boss Who Chose Her Over the Purple Diamond | Full Movie',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'knSHWfeYcb8',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['diamantes'],
+    rating: 4.5,
+    source: 'Karma Never Forgets',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
