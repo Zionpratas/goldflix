@@ -33192,6 +33192,20 @@ const VIDEOS = [
     source: 'Riquezas Ocultas do Brasil',
   },
 
+  {
+    id: 'v3140',
+    title: 'How the documentary I THINK WE\'RE ALONE NOW came to be',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '_GmUJ4Vj8xE',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'DurtySean',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
