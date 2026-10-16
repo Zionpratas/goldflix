@@ -33164,6 +33164,20 @@ const VIDEOS = [
     source: 'Karma Never Forgets',
   },
 
+  {
+    id: 'v3138',
+    title: 'Central Banks Are Buying Gold Hand Over Fist—What Do They Know?',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'Zi_kqnL5yAw',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['mercado', 'ouro'],
+    rating: 4.5,
+    source: 'maneco64',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
