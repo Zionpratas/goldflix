@@ -33248,6 +33248,20 @@ const VIDEOS = [
     source: 'Why X',
   },
 
+  {
+    id: 'v3144',
+    title: 'Diamond Dreams | Full Baseball Documentary | Chasing a Championship',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'Sp35XdEjIgs',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['diamantes'],
+    rating: 4.5,
+    source: 'Black Star Films',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
