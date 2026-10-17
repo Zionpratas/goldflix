@@ -33262,6 +33262,20 @@ const VIDEOS = [
     source: 'Black Star Films',
   },
 
+  {
+    id: 'v3145',
+    title: 'Central Banks Print Money. So Why Are They Buying Gold?',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: '4jZpne7jmoo',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['mercado', 'ouro'],
+    rating: 4.5,
+    source: 'Investurement101',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
