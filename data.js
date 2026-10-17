@@ -33220,6 +33220,34 @@ const VIDEOS = [
     source: 'Gold Rush Chronicles TV',
   },
 
+  {
+    id: 'v3142',
+    title: 'Parker\'s Road To $160 Million Worth Of Gold | Gold Rush',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'rIvTlsPEs3Q',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Discovery UK',
+  },
+
+  {
+    id: 'v3143',
+    title: 'China Knows Something About Gold You Don\'t',
+    description: 'Conteúdo sobre o setor joalheiro e metais preciosos.',
+    youtubeId: 'aCBpulZOxz8',
+    duration: 'N/A',
+    year: 2026,
+    language: 'Inglês',
+    subtitles: 'PT-BR (auto)',
+    categories: ['ouro'],
+    rating: 4.5,
+    source: 'Why X',
+  },
+
   // ═══════════════════════════════════════
   // FILMES (Trailers oficiais verificados)
   // ═══════════════════════════════════════
